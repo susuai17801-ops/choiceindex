@@ -28,4 +28,4 @@ Allow: /
 User-agent: CCBot
 Allow: /
 
-Sitemap: https://susuai17801-ops.github.io/choiceindex/sitemap.xml
+Sitemap: https://choiceindex.tw/sitemap.xml
