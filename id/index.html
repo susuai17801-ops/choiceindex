@@ -84,8 +84,9 @@
   li{margin:.4rem 0}
   .guide-card{
     display:block; background:var(--card); border:1px solid var(--border); border-radius:12px;
-    padding:1rem 1.2rem; margin:.8rem 0; color:var(--fg);
+    padding:1rem 1.2rem; margin:.8rem 0; color:var(--fg); text-decoration:none;
   }
+  .guide-card:hover{border-color:var(--accent)}
   .guide-card .cat{
     display:inline-block; font-size:.72rem; color:var(--muted);
     border:1px solid var(--border); border-radius:999px; padding:.1rem .6rem; margin-bottom:.4rem;
@@ -128,10 +129,10 @@
       <span class="cat">Segera hadir</span>
       <h3>Kantong Sampah — pilih ukuran yang pas, jangan boros</h3>
     </div>
-    <div class="guide-card">
-      <span class="cat">Segera hadir</span>
-      <h3>Tisu Dapur & Tisu Basah — perbandingan harga per lembar</h3>
-    </div>
+    <a class="guide-card" href="/id/tisu-dapur/">
+      <span class="cat">Sudah tersedia</span>
+      <h3>Tisu Cabut / Tisu Dapur — cara pilih biar hemat dan tidak rugi</h3>
+    </a>
     <div class="guide-card">
       <span class="cat">Segera hadir</span>
       <h3>Baterai (ukuran 3 / 4) — alkaline vs isi ulang</h3>

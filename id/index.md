@@ -8,9 +8,9 @@ Kami menulis panduan perbandingan barang yang sering digunakan sehari-hari. Foku
 
 ## Panduan yang akan segera hadir
 
+- [Tisu Cabut / Tisu Dapur — cara pilih biar hemat dan tidak rugi](https://choiceindex.tw/id/tisu-dapur/) — sudah tersedia
 - Deterjen / Kapsul Cuci — mana yang paling hemat per cucian?
 - Kantong Sampah — pilih ukuran yang pas, jangan boros
-- Tisu Dapur & Tisu Basah — perbandingan harga per lembar
 - Baterai (ukuran 3 / 4) — alkaline vs isi ulang
 
 Panduan lain menyusul secara bertahap…
