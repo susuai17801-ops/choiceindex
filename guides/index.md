@@ -18,4 +18,4 @@
 
 ---
 選品索引 ChoiceIndex — 用比較框架幫你找到適合的東西，不做業配吹捧。
-[回首頁](https://choiceindex.tw/)
+[回首頁](https://choiceindex.tw/)｜[Bahasa Indonesia](https://choiceindex.tw/id/)

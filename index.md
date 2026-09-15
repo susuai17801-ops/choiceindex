@@ -67,4 +67,4 @@
 
 ---
 選品索引 ChoiceIndex — 用比較框架幫你找到適合的東西，不做業配吹捧。
-[更多選購指南](https://choiceindex.tw/guides/)
+[更多選購指南](https://choiceindex.tw/guides/)｜[Bahasa Indonesia](https://choiceindex.tw/id/)
