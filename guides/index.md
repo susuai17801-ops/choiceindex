@@ -17,6 +17,12 @@
 ### [小米／米家空氣清淨機濾網怎麼選？抗菌版／除甲醛版／經濟版比較](https://choiceindex.tw/guides/xiaomi-air-purifier-filter/)
 副廠濾芯版本比較、RFID晶片差異、適用機型與選購檢查清單。
 
+### [鞋子／鞋襪除臭噴霧怎麼選？抑菌成分、噴頭設計、除臭效果完整比較](https://choiceindex.tw/guides/shoe-odor-spray/)
+銀離子／酒精類抑菌成分、單瓶容量、乾燥等待時間比較，附久站久走通勤族選購檢查清單。
+
+### [黏鼠板／捕鼠板怎麼選才有效？黏著式、誘捕籠、電擊滅鼠器完整比較](https://choiceindex.tw/guides/sticky-mouse-trap/)
+四種捕鼠方式的效果、安全性、處理難易度比較，附租屋宿舍、家有寵物幼童選購檢查清單。
+
 更多品類文章陸續更新中……
 
 ---
