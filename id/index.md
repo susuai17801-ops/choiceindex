@@ -11,6 +11,8 @@ Kami menulis panduan perbandingan barang yang sering digunakan sehari-hari. Foku
 - [Tisu Cabut / Tisu Dapur — cara pilih biar hemat dan tidak rugi](https://choiceindex.tw/id/tisu-dapur/) — sudah tersedia
 - [Filter Air Purifier Xiaomi — cara memilih versi antibakteri, anti-formaldehida, atau ekonomis](https://choiceindex.tw/id/filter-air-purifier-xiaomi/) — sudah tersedia
 - [Gelang Anti Nyamuk — cara memilih versi minyak esensial, masa pakai, dan usia yang cocok](https://choiceindex.tw/id/gelang-anti-nyamuk/) — sudah tersedia
+- [Semprotan Penghilang Bau Sepatu — cara memilih bahan antibakteri, isi per botol, dan waktu kering](https://choiceindex.tw/id/semprotan-sepatu/) — sudah tersedia
+- [Papan Lem Tikus — cara memilih antara papan lem, perangkap kandang, alat setrum, dan racun tikus](https://choiceindex.tw/id/papan-lem-tikus/) — sudah tersedia
 - Deterjen / Kapsul Cuci — mana yang paling hemat per cucian?
 - Kantong Sampah — pilih ukuran yang pas, jangan boros
 - Baterai (ukuran 3 / 4) — alkaline vs isi ulang
