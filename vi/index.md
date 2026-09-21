@@ -15,6 +15,7 @@ Chúng tôi viết các bài hướng dẫn so sánh các món đồ dùng hằn
 - [Vòng Tay Chống Muỗi — cách chọn bản tinh dầu, thời gian sử dụng và độ tuổi phù hợp](https://choiceindex.tw/vi/vong-tay-chong-muoi/) — đã có
 - [Xịt Khử Mùi Giày — cách chọn theo thành phần kháng khuẩn, dung tích và thời gian khô](https://choiceindex.tw/vi/xit-khu-mui-giay/) — đã có
 - [Bẫy Keo Dính Chuột — cách chọn giữa bẫy keo, lồng bẫy, bẫy điện và thuốc diệt chuột](https://choiceindex.tw/vi/bay-keo-dinh-chuot/) — đã có
+- [Áo Mưa Đi Xe Máy — cách chọn bộ hai mảnh, chất liệu, phản quang và độ thoáng khí](https://choiceindex.tw/vi/ao-mua-di-xe-may/) — đã có
 - Nước Giặt / Viên Giặt — loại nào tiết kiệm nhất cho mỗi lần giặt? — sắp ra mắt
 - Túi Rác — chọn đúng kích cỡ, đừng lãng phí — sắp ra mắt
 - Pin (cỡ AA / AAA) — pin kiềm hay pin sạc? — sắp ra mắt
