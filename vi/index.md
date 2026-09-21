@@ -10,6 +10,9 @@ Chúng tôi viết các bài hướng dẫn so sánh các món đồ dùng hằn
 
 ## Các bài hướng dẫn
 
+- [Giấy Rút / Giấy Bếp — cách chọn để tiết kiệm và không bị lỗ](https://choiceindex.tw/vi/khan-giay-rut-nha-bep/) — đã có
+- [Màng Lọc Máy Lọc Không Khí Xiaomi — cách chọn bản kháng khuẩn, khử formaldehyde hay tiết kiệm](https://choiceindex.tw/vi/mang-loc-may-loc-khong-khi-xiaomi/) — đã có
+- [Vòng Tay Chống Muỗi — cách chọn bản tinh dầu, thời gian sử dụng và độ tuổi phù hợp](https://choiceindex.tw/vi/vong-tay-chong-muoi/) — đã có
 - [Xịt Khử Mùi Giày — cách chọn theo thành phần kháng khuẩn, dung tích và thời gian khô](https://choiceindex.tw/vi/xit-khu-mui-giay/) — đã có
 - [Bẫy Keo Dính Chuột — cách chọn giữa bẫy keo, lồng bẫy, bẫy điện và thuốc diệt chuột](https://choiceindex.tw/vi/bay-keo-dinh-chuot/) — đã có
 - Nước Giặt / Viên Giặt — loại nào tiết kiệm nhất cho mỗi lần giặt? — sắp ra mắt
