@@ -14,7 +14,7 @@ Kami menulis panduan perbandingan barang yang sering digunakan sehari-hari. Foku
 - [Semprotan Penghilang Bau Sepatu — cara memilih bahan antibakteri, isi per botol, dan waktu kering](https://choiceindex.tw/id/semprotan-sepatu/) — sudah tersedia
 - [Papan Lem Tikus — cara memilih antara papan lem, perangkap kandang, alat setrum, dan racun tikus](https://choiceindex.tw/id/papan-lem-tikus/) — sudah tersedia
 - [Jas Hujan Motor — cara memilih setelan dua potong, bahan, reflektor, dan sirkulasi udara](https://choiceindex.tw/id/jas-hujan-motor/) — sudah tersedia
-- Deterjen / Kapsul Cuci — mana yang paling hemat per cucian?
+- [Deterjen / Kapsul Cuci — cara memilih tingkat konsentrat, bahan, dan biaya per butir](https://choiceindex.tw/id/kapsul-deterjen/) — sudah tersedia
 - Kantong Sampah — pilih ukuran yang pas, jangan boros
 - Baterai (ukuran 3 / 4) — alkaline vs isi ulang
 
