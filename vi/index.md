@@ -17,7 +17,7 @@ Chúng tôi viết các bài hướng dẫn so sánh các món đồ dùng hằn
 - [Bẫy Keo Dính Chuột — cách chọn giữa bẫy keo, lồng bẫy, bẫy điện và thuốc diệt chuột](https://choiceindex.tw/vi/bay-keo-dinh-chuot/) — đã có
 - [Áo Mưa Đi Xe Máy — cách chọn bộ hai mảnh, chất liệu, phản quang và độ thoáng khí](https://choiceindex.tw/vi/ao-mua-di-xe-may/) — đã có
 - [Nước Giặt / Viên Giặt — cách chọn độ cô đặc, thành phần và chi phí mỗi viên](https://choiceindex.tw/vi/vien-giat/) — đã có
-- Túi Rác — chọn đúng kích cỡ, đừng lãng phí — sắp ra mắt
+- [Túi Rác — cách chọn kích thước, loại cuộn thường hay loại rút, và chi phí mỗi chiếc](https://choiceindex.tw/vi/tui-rac/) — đã có
 - Pin (cỡ AA / AAA) — pin kiềm hay pin sạc? — sắp ra mắt
 
 Các bài hướng dẫn khác sẽ được bổ sung dần…

@@ -15,7 +15,7 @@ Kami menulis panduan perbandingan barang yang sering digunakan sehari-hari. Foku
 - [Papan Lem Tikus — cara memilih antara papan lem, perangkap kandang, alat setrum, dan racun tikus](https://choiceindex.tw/id/papan-lem-tikus/) — sudah tersedia
 - [Jas Hujan Motor — cara memilih setelan dua potong, bahan, reflektor, dan sirkulasi udara](https://choiceindex.tw/id/jas-hujan-motor/) — sudah tersedia
 - [Deterjen / Kapsul Cuci — cara memilih tingkat konsentrat, bahan, dan biaya per butir](https://choiceindex.tw/id/kapsul-deterjen/) — sudah tersedia
-- Kantong Sampah — pilih ukuran yang pas, jangan boros
+- [Kantong Sampah — cara memilih ukuran, tipe polos atau tarik, dan biaya per lembar](https://choiceindex.tw/id/kantong-sampah/) — sudah tersedia
 - Baterai (ukuran 3 / 4) — alkaline vs isi ulang
 
 Panduan lain menyusul secara bertahap…
