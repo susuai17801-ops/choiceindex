@@ -1,6 +1,6 @@
 # Nước Rửa Chén: Cách Chọn Chứng Nhận, Độ Cô Đặc Và Túi Refill Tiết Kiệm
 
-Cập nhật lần cuối: 28 tháng 9 năm 2026
+Cập nhật lần cuối: 17 tháng 10 năm 2026
 選品索引 ChoiceIndex — https://choiceindex.tw/vi/
 
 Mỗi ngày đều phải rửa chén, rửa nồi, nhưng trên kệ có nhiều loại nước rửa chén, từ loại tổng hợp thông thường, loại có nguồn gốc thiên nhiên/thực vật đến loại có chứng nhận môi trường quốc tế, với mức giá có thể chênh lệch vài lần. Bài này tổng hợp hướng thành phần, nhãn chứng nhận, độ cô đặc và cách đóng gói, đồng thời hướng dẫn cách tính xem túi refill có thật sự tiết kiệm không, giúp bạn nắm điểm quan trọng trước khi quyết định mua loại nào.
@@ -34,6 +34,25 @@ Giống như khi mua khăn giấy cuộn, đừng chỉ nhìn "một chai bao nh
 - **Nhà có trẻ nhỏ, thường dùng để rửa bình sữa hoặc rau củ** — Xem kỹ sản phẩm có ghi "dùng cho thực phẩm" hoặc "dùng chung cho rau củ và chén bát" không, và làm theo cách tráng rửa được khuyến nghị.
 - **Ưu tiên ngân sách, nhiều nồi niêu dính dầu mỡ** — Nước rửa chén tổng hợp thông thường thường có khả năng làm sạch mạnh hơn, có thể kết hợp với miếng rửa chén để tẩy dầu mỡ tốt hơn.
 - **Mua lâu dài, muốn tiết kiệm** — Tính trước giá mỗi ML, xác nhận túi refill có thật sự rẻ hơn chai không, rồi mới quyết định mua nhiều một lần.
+
+## Tìm Trên Shopee Đài Loan: Từ Khóa Tiếng Trung Và Ý Nghĩa Chữ Trên Bao Bì
+
+Shopee Đài Loan dùng tiếng Trung, nên tìm bằng tiếng Việt thường không ra kết quả. Hãy sao chép từ khóa bên dưới rồi dán vào ô tìm kiếm của Shopee.
+
+| Từ khóa / chữ trên bao bì (tiếng Trung) | Pinyin | Nghĩa | Dùng để làm gì |
+|---|---|---|---|
+| 洗碗精 | xǐ wǎn jīng | nước rửa chén | Từ khóa tìm kiếm phổ biến nhất |
+| 洗潔精 | xǐ jié jīng | nước rửa chén (cách gọi khác) | Thường xuất hiện trên bao bì và tên sản phẩm; kết quả tìm kiếm gần giống 洗碗精 |
+| 食品用 | shípǐn yòng | dùng cho thực phẩm | Chữ cho biết sản phẩm được quảng cáo là phù hợp với dụng cụ ăn uống hoặc thực phẩm; xem mô tả đầy đủ trên trang sản phẩm |
+| 補充包 | bǔchōng bāo | túi refill | Tìm khi muốn đổ thêm vào chai, không phải chai chính |
+| 濃縮 | nóngsuō | cô đặc | Đặc hơn, lượng dùng mỗi lần thường ít hơn |
+| 可洗蔬果 / 蔬果可用 | kě xǐ shūguǒ / shūguǒ kě yòng | dùng được để rửa rau củ | Chữ kiểu này chỉ là ghi chú; trước khi dùng rửa rau củ, hãy xem cách tráng trên bao bì |
+| 蝦皮商城 / 官方直營 | xiāpí shāngchéng / guānfāng zhíyíng | Shopee Mall / chính hãng trực tiếp | Dấu hiệu cho biết đây là gian hàng chính thức trên Shopee |
+| 免運 | miǎnyùn | miễn phí vận chuyển | Thường có điều kiện đơn tối thiểu |
+| 未滿100元無法出貨 | wèimǎn yībǎi yuán wúfǎ chūhuò | không giao nếu đơn dưới NT$100 | Một số gian hàng ghi điều này trên trang sản phẩm; nếu cần, hãy mua thêm sản phẩm để đạt mức đơn hàng tối thiểu |
+| 最熱銷 | zuì rèxiāo | bán chạy nhất | Một tùy chọn sắp xếp kết quả thường có trên Shopee Đài Loan, giúp bạn tìm các sản phẩm bán chạy |
+
+Tên thương hiệu trên bao bì thường cũng được viết bằng tiếng Trung. Nếu không chắc, hãy dùng tính năng dịch bằng camera (ví dụ Google Dịch) để quét chữ trên bao bì hoặc trang sản phẩm rồi đối chiếu với bảng trên. Danh sách này chỉ là hướng dẫn từ khóa, không phải bản dịch chính thức; chữ trên trang sản phẩm có thể khác.
 
 > Trang này chỉ là hướng dẫn dành cho người tiêu dùng, không phải quảng cáo trả phí. Link bên dưới là link tiếp thị liên kết của Shopee — nếu bạn mua qua liên kết đó, chúng tôi có thể nhận một khoản hoa hồng nhỏ. Giá bạn phải trả không thay đổi.
 

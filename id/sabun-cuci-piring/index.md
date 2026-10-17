@@ -1,6 +1,6 @@
 # Sabun Cuci Piring: Cara Memilih Sertifikasi, Tingkat Konsentrat, dan Kemasan Refill yang Hemat
 
-Terakhir diperbarui: 28 September 2026
+Terakhir diperbarui: 17 Oktober 2026
 選品索引 ChoiceIndex — https://choiceindex.tw/id/
 
 Sabun cuci piring dipakai tiap hari buat cuci piring dan panci, tapi di rak toko ada yang sintetis biasa, alami/nabati, sampai yang bersertifikasi lingkungan internasional, selisih harganya bisa berkali-kali lipat. Panduan ini merangkum jenis bahan, label sertifikasi, tingkat konsentrat, dan jenis kemasan, plus cara menghitung apakah kemasan refill beneran lebih hemat, biar kamu tahu poin penting sebelum memutuskan mau beli yang mana.
@@ -34,6 +34,25 @@ Sama kayak tisu gulung, jangan cuma lihat "satu botol berapa harganya", hitung "
 - **Ada anak kecil di rumah, sering dipakai cuci botol susu atau sayur buah** — cek jelas apa tertulis "untuk makanan" "bisa buat sayur buah", dan ikuti cara bilas yang disarankan.
 - **Prioritas budget, banyak peralatan masak berminyak** — deterjen sintetis biasa daya bersihnya biasanya lebih kuat, bisa dibantu dengan spons untuk mengangkat minyak.
 - **Mau beli rutin, mau hemat** — hitung dulu biaya per ML, pastikan refill beneran lebih hemat dari botol, baru beli banyak sekaligus.
+
+## Cari di Shopee Taiwan: Kata Kunci Mandarin dan Arti Tulisan di Kemasan
+
+Shopee Taiwan memakai bahasa Mandarin, jadi mencari dengan kata Indonesia biasanya tidak menemukan apa-apa. Salin kata kunci di bawah ini, lalu tempel di kolom pencarian Shopee.
+
+| Kata kunci / tulisan (Mandarin) | Pinyin | Artinya | Gunanya |
+|---|---|---|---|
+| 洗碗精 | xǐ wǎn jīng | sabun cuci piring | Kata kunci pencarian yang paling umum |
+| 洗潔精 | xǐ jié jīng | sabun cuci piring (sebutan lain) | Sering tertulis di kemasan dan nama produk; hasil pencariannya mirip dengan 洗碗精 |
+| 食品用 | shípǐn yòng | untuk makanan | Tulisan untuk produk yang diklaim cocok dipakai pada peralatan makan atau makanan; cek keterangan lengkapnya di halaman produk |
+| 補充包 | bǔchōng bāo | kemasan refill | Dicari kalau mau isi ulang, bukan botol utama |
+| 濃縮 | nóngsuō | konsentrat | Lebih kental, pemakaian per kali biasanya lebih sedikit |
+| 可洗蔬果 / 蔬果可用 | kě xǐ shūguǒ / shūguǒ kě yòng | bisa untuk sayur dan buah | Tulisan seperti ini hanya penanda; sebelum dipakai untuk sayur dan buah, cek petunjuk pembilasan di kemasan |
+| 蝦皮商城 / 官方直營 | xiāpí shāngchéng / guānfāng zhíyíng | Shopee Mall / dijual langsung oleh pihak resmi | Penanda toko resmi di Shopee |
+| 免運 | miǎnyùn | gratis ongkir | Biasanya ada syarat minimal belanja |
+| 未滿100元無法出貨 | wèimǎn yībǎi yuán wúfǎ chūhuò | tidak dikirim kalau belanja di bawah NT$100 | Beberapa toko menulis ini di halaman produk; tambahkan barang lain kalau perlu |
+| 最熱銷 | zuì rèxiāo | terlaris | Urutan hasil pencarian yang biasanya tersedia di Shopee Taiwan, berguna untuk melihat produk yang banyak dibeli |
+
+Nama merek di kemasan biasanya juga dalam bahasa Mandarin. Kalau ragu, foto tulisan di kemasan atau halaman produk dengan fitur terjemahan kamera di ponsel (misalnya Google Terjemahan), lalu cocokkan dengan tabel di atas. Daftar ini hanya panduan kata kunci, bukan terjemahan resmi; tulisan di halaman produk bisa berbeda.
 
 > Halaman ini murni panduan pemilihan, bukan ulasan berbayar untuk produk tertentu. Link di bawah adalah link afiliasi Shopee — kalau kamu membeli lewat link tersebut, kami mungkin mendapat komisi kecil. Harga yang kamu bayar tidak berubah.
 
