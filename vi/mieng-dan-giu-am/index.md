@@ -28,6 +28,10 @@ Không có loại túi sưởi nào "tốt nhất"; tất cả tùy vào dùng �
 
 ## An toàn khi dùng túi sưởi (bỏng nhiệt độ thấp)
 
+[Minh họa: bên trái so sánh dán ngoài quần áo và dán trực tiếp lên da; bên phải là trục nhiệt độ, 44 đến 50 độ có thể gây bỏng nhiệt độ thấp khi tiếp xúc lâu, 53 đến 63 độ là nhiệt độ gian hàng ghi]
+
+Minh họa: dán túi sưởi bên ngoài quần áo, không dán trực tiếp lên da. Bên phải: khoảng nhiệt độ gây bỏng nhiệt độ thấp và nhiệt độ gian hàng ghi cho sản phẩm ví dụ (do gian hàng ghi, chúng tôi chưa đo).
+
 - **Không dán trực tiếp lên da** — Nhiệt độ túi sưởi thường trên 50°C. Bỏng nhiệt độ thấp xảy ra khi da tiếp xúc lâu với nhiệt độ tương đối thấp (khoảng 44 đến 50°C); lúc đó có thể không đau nhiều, sau đó da mới đỏ, sưng hoặc phồng rộp. Luôn dùng qua lớp quần áo.
 - **Không dùng khi ngủ** — Khi ngủ, da kém nhạy cảm với nhiệt, cơ thể dễ đè lên cùng một chỗ, và nhiệt độ túi sưởi cũng có thể cao hơn bình thường. Không khuyến nghị dùng khi ngủ.
 - **Kiểm tra và đổi vị trí định kỳ** — Khi dùng, hãy kiểm tra da và đổi vị trí định kỳ (bác sĩ thường khuyên cứ 20 đến 30 phút); nếu da đỏ, châm chích hoặc nóng rát khó chịu, hãy tháo túi sưởi ra ngay.
@@ -55,6 +59,12 @@ Shopee Đài Loan dùng tiếng Trung, nên tìm bằng tiếng Việt thường
 | 月銷熱賣 | yuè xiāo rèmài | bán chạy theo tháng | Một tùy chọn sắp xếp kết quả tìm kiếm trên Shopee Đài Loan (tên hiển thị có thể thay đổi), giúp bạn tìm các sản phẩm bán chạy |
 
 Tên thương hiệu trên bao bì thường cũng được viết bằng tiếng Trung. Nếu không chắc, hãy dùng tính năng dịch bằng camera (ví dụ Google Dịch) để quét chữ trên bao bì hoặc trang sản phẩm rồi đối chiếu với bảng trên. Danh sách này chỉ là hướng dẫn từ khóa, không phải bản dịch chính thức; chữ trên trang sản phẩm có thể khác.
+
+> **Cho nhân viên cửa hàng xem, hoặc dán vào chat Shopee**
+>
+> 請問有貼式暖暖包嗎？ (Qǐngwèn yǒu tiēshì nuǎnnuǎn bāo ma?) — Bạn có túi sưởi loại dán không?
+> 有手握式的嗎？ (Yǒu shǒuwò shì de ma?) — Có loại cầm tay không?
+> 請問製造日期和保存期限是什麼時候？ (Qǐngwèn zhìzào rìqí hé bǎocún qíxiàn shì shénme shíhòu?) — Ngày sản xuất và hạn sử dụng là khi nào?
 
 > Trang này chỉ là hướng dẫn dành cho người tiêu dùng, không phải quảng cáo trả phí. Link bên dưới là link tiếp thị liên kết của Shopee — nếu bạn mua qua liên kết đó, chúng tôi có thể nhận một khoản hoa hồng nhỏ. Giá bạn phải trả không thay đổi.
 

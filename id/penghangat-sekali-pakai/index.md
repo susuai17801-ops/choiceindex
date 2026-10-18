@@ -28,6 +28,10 @@ Tidak ada hand warmer yang "paling bagus"; semuanya tergantung dipakai di mana, 
 
 ## Keselamatan saat Memakai Hand Warmer (Luka Bakar Suhu Rendah)
 
+[Ilustrasi: kiri membandingkan di atas pakaian dan langsung di kulit; kanan sumbu suhu, 44 sampai 50 derajat bisa menyebabkan luka bakar suhu rendah bila kontak lama, 53 sampai 63 derajat suhu yang ditulis toko]
+
+Ilustrasi: pakai hand warmer di atas pakaian, jangan langsung di kulit. Di kanan: rentang suhu luka bakar suhu rendah dan suhu yang ditulis toko untuk produk contoh (keterangan toko, belum kami ukur).
+
 - **Jangan tempel langsung di kulit** — Suhu hand warmer sering kali di atas 50°C. Luka bakar suhu rendah dapat terjadi ketika kulit terpapar suhu yang relatif rendah (sekitar 44 sampai 50°C) dalam waktu lama; saat itu mungkin tidak terasa sakit, baru kemudian muncul merah, bengkak, atau lepuh. Selalu pakai dengan dilapisi pakaian.
 - **Jangan dipakai saat tidur** — Saat tidur, kulit kurang peka terhadap panas dan tubuh bisa menindih hand warmer di satu titik dalam waktu lama. Suhunya juga bisa melebihi suhu biasanya. Tidak disarankan dipakai saat tidur.
 - **Periksa kulit dan ubah posisi secara berkala** — Saat digunakan, periksa kondisi kulit dan pindahkan hand warmer ke posisi lain secara berkala (dokter sering menyarankan setiap 20 sampai 30 menit); kalau kulit memerah, perih, atau terasa panas tidak nyaman, segera lepas.
@@ -55,6 +59,12 @@ Shopee Taiwan memakai bahasa Mandarin, jadi mencari dengan kata Indonesia biasan
 | 月銷熱賣 | yuè xiāo rèmài | terlaris bulanan | Pilihan urutan hasil pencarian di Shopee Taiwan (nama tampilannya bisa berubah), berguna untuk melihat produk yang banyak terjual |
 
 Nama merek di kemasan biasanya juga dalam bahasa Mandarin. Kalau ragu, foto tulisan di kemasan atau halaman produk dengan fitur terjemahan kamera di ponsel (misalnya Google Terjemahan), lalu cocokkan dengan tabel di atas. Daftar ini hanya panduan kata kunci, bukan terjemahan resmi; tulisan di halaman produk bisa berbeda.
+
+> **Tunjukkan ke staf toko, atau tempel di chat Shopee**
+>
+> 請問有貼式暖暖包嗎？ (Qǐngwèn yǒu tiēshì nuǎnnuǎn bāo ma?) — Apakah ada hand warmer jenis tempel?
+> 有手握式的嗎？ (Yǒu shǒuwò shì de ma?) — Apakah ada yang jenis genggam?
+> 請問製造日期和保存期限是什麼時候？ (Qǐngwèn zhìzào rìqí hé bǎocún qíxiàn shì shénme shíhòu?) — Kapan tanggal produksi dan masa simpannya?
 
 > Halaman ini murni panduan pemilihan, bukan ulasan berbayar untuk produk tertentu. Link di bawah adalah link afiliasi Shopee — kalau kamu membeli lewat link tersebut, kami mungkin mendapat komisi kecil. Harga yang kamu bayar tidak berubah.
 

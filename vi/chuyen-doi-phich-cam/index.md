@@ -5,6 +5,10 @@ Cập nhật lần cuối: 18 tháng 10 năm 2026
 
 Ổ cắm gia đình ở Đài Loan thường dùng điện áp 110V và ổ cắm dạng chân dẹt, còn ở Việt Nam và nhiều nước khác điện áp thường khoảng 220V; phích cắm có thể có chân dẹt hoặc chân tròn. Nếu bạn mang bộ sạc, quạt hay thiết bị điện từ quê sang Đài Loan, chuyện đầu tiên hay gặp là phích cắm không vừa ổ cắm. Trên Shopee có rất nhiều đầu chuyển đổi, nhưng phần lớn là loại dành cho người Đài Loan đi du lịch nước ngoài, tức là chiều chuyển ngược lại. Điều quan trọng hơn: đầu chuyển đổi chỉ đổi hình dạng phích cắm, không đổi điện áp. Bài này tổng hợp các loại đầu chuyển đổi, 5 tiêu chí quan trọng khi chọn và lý do bạn phải xem nhãn thiết bị trước, để bạn đối chiếu trước khi mua.
 
+[Minh họa: bên trái là phích hai chân tròn, ở giữa là đầu chuyển đổi, bên phải là phích hai chân dẹt dùng ở Đài Loan]
+
+Minh họa: phích chân tròn qua đầu chuyển đổi thành phích chân dẹt dùng ở Đài Loan. Đầu chuyển đổi chỉ đổi hình dạng, không đổi điện áp.
+
 ## Trước hết, hãy hiểu: 4 loại đầu chuyển đổi thường gặp
 
 | Loại | Công dụng | Phù hợp với ai | Cần lưu ý |
@@ -23,6 +27,10 @@ Cập nhật lần cuối: 18 tháng 10 năm 2026
 | Hình dạng phích và cỡ chân | Xem phích của thiết bị là chân tròn hay chân dẹt; chân tròn có cỡ khác nhau (ví dụ 4,0 mm và 4,8 mm), nếu không khớp có thể quá lỏng hoặc quá chặt. Một số phích dẹt (ví dụ ở Việt Nam và Philippines) cũng có thể cắm thẳng vào ổ cắm Đài Loan | Cỡ chân tròn không khớp nên lỏng, tiếp xúc kém |
 | Công suất và dòng điện | Xem đầu chuyển đổi có ghi công suất và dòng điện tối đa không, và con số phải lớn hơn công suất của thiết bị. Nếu gian hàng không ghi, các thiết bị điện nhiệt công suất lớn như ấm đun nước, nồi cơm điện, bàn ủi, máy sấy tóc thì không nên cắm | Dùng thiết bị công suất lớn qua đầu chuyển đổi nên đầu chuyển đổi bị nóng |
 | An toàn và chất lượng | Chọn loại chất liệu trông chắc chắn, chân không bị lung lay; nếu gian hàng không ghi chứng nhận an toàn thì không thể mặc định là đạt chuẩn. Khi dùng mà thấy nóng, có mùi khét hoặc phích bị lỏng thì hãy ngừng dùng | Mua loại quá rẻ, không có thông tin, dùng lâu thì chân lỏng và nóng |
+
+[Minh họa: hai nhãn thiết bị, bên trái ghi đầu vào 100 đến 240 vôn (chỉ cần đầu chuyển đổi), bên phải chỉ ghi 220 vôn (không giải quyết bằng đầu chuyển đổi)]
+
+Minh họa: xem mục "INPUT" trên nhãn thiết bị hoặc bộ sạc. Ghi 100–240V thì chỉ cần đầu chuyển đổi; chỉ ghi 220V thì đầu chuyển đổi không giải quyết được.
 
 Không có đầu chuyển đổi nào "tốt nhất"; hãy xem nhãn điện áp thiết bị trước, rồi mới đến hình dạng phích và công suất sử dụng. Bộ sạc điện thoại và laptop có đầu vào 100–240V thường chỉ cần dùng đầu chuyển đổi chuẩn châu Âu sang chuẩn Mỹ; các thiết bị chỉ ghi 220V như nồi cơm điện, ấm đun nước, quạt thì không nên cắm trực tiếp vào nguồn điện ở Đài Loan, nên mua thiết bị bán tại Đài Loan (110V) hoặc hỏi chủ nhà, người thuê nhà hay người hiểu về điện. Nội dung trang này chỉ là hướng dẫn chọn mua, không phải lời khuyên của thợ điện hay tiêu chuẩn an toàn; nếu còn nghi ngờ về cách dùng thiết bị điện, hãy làm theo nhãn thiết bị và sách hướng dẫn.
 
@@ -54,6 +62,12 @@ Shopee Đài Loan dùng tiếng Trung, nên tìm bằng tiếng Việt thường
 | 月銷熱賣 | yuè xiāo rèmài | bán chạy theo tháng | Một tùy chọn sắp xếp kết quả tìm kiếm trên Shopee Đài Loan (tên hiển thị có thể thay đổi), giúp bạn tìm các sản phẩm bán chạy |
 
 Tên thương hiệu trên bao bì thường cũng được viết bằng tiếng Trung. Nếu không chắc, hãy dùng tính năng dịch bằng camera (ví dụ Google Dịch) để quét chữ trên bao bì hoặc trang sản phẩm rồi đối chiếu với bảng trên. Danh sách này chỉ là hướng dẫn từ khóa, không phải bản dịch chính thức; chữ trên trang sản phẩm có thể khác.
+
+> **Cho nhân viên cửa hàng xem, hoặc dán vào chat Shopee**
+>
+> 請問有歐規轉美規的轉接頭嗎？ (Qǐngwèn yǒu ōuguī zhuǎn měiguī de zhuǎnjiētóu ma?) — Bạn có đầu chuyển đổi phích cắm chuẩn châu Âu sang chuẩn Mỹ không?
+> 我的電器是圓腳插頭，要在台灣的插座使用。 (Wǒ de diànqì shì yuán jiǎo chātóu, yào zài Táiwān de chāzuò shǐyòng.) — Thiết bị của tôi có phích chân tròn và tôi cần dùng ở ổ cắm Đài Loan.
+> 這個轉接頭的額定功率是多少？ (Zhège zhuǎnjiētóu de édìng gōnglǜ shì duōshǎo?) — Công suất định mức của đầu chuyển đổi này là bao nhiêu?
 
 > Trang này chỉ là hướng dẫn dành cho người tiêu dùng, không phải quảng cáo trả phí. Link bên dưới là link tiếp thị liên kết của Shopee — nếu bạn mua qua liên kết đó, chúng tôi có thể nhận một khoản hoa hồng nhỏ. Giá bạn phải trả không thay đổi.
 

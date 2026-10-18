@@ -5,6 +5,10 @@ Terakhir diperbarui: 18 Oktober 2026
 
 Stopkontak rumah di Taiwan memakai 110V dan steker pipih, sedangkan di Indonesia dan beberapa negara lain umumnya sekitar 220–230V dengan steker bulat. Kalau kamu membawa charger, kipas angin, atau alat listrik dari kampung halaman ke Taiwan, hal pertama yang sering terjadi adalah steker tidak bisa dimasukkan ke stopkontak. Di Shopee ada banyak adaptor steker, tetapi sebagian besar adalah adaptor untuk orang Taiwan yang bepergian ke luar negeri, jadi arahnya terbalik. Yang lebih penting: adaptor hanya mengubah bentuk steker, bukan tegangan listrik. Panduan ini merangkum jenis adaptor, 5 hal penting saat memilih, dan kenapa kamu harus mengecek label alat listrik dulu, supaya kamu bisa menentukan pilihan sebelum membeli.
 
+[Ilustrasi: steker dengan dua pin bulat di kiri, adaptor di tengah, steker dengan dua pin pipih untuk Taiwan di kanan]
+
+Ilustrasi: steker pin bulat menjadi steker pin pipih untuk Taiwan lewat adaptor. Adaptor hanya mengubah bentuk, bukan tegangan.
+
 ## Pertama, Pahami: 4 Jenis Adaptor Steker yang Umum
 
 | Jenis | Fungsi | Cocok untuk siapa | Yang perlu diperhatikan |
@@ -23,6 +27,10 @@ Stopkontak rumah di Taiwan memakai 110V dan steker pipih, sedangkan di Indonesia
 | Bentuk steker dan ukuran pin | Lihat apakah steker alatmu berpin bulat atau pipih; pin bulat punya ukuran berbeda (misalnya 4,0 mm dan 4,8 mm), kalau ukurannya tidak cocok bisa terlalu longgar atau terlalu ketat. Sebagian steker pipih (misalnya di Vietnam dan Filipina) juga mungkin bisa langsung masuk ke stopkontak Taiwan | Ukuran pin bulat tidak cocok sehingga longgar dan kontaknya jelek |
 | Daya dan arus | Periksa daya maksimum (W) dan arus maksimum (A) yang tercantum pada adaptor, dan pastikan daya dan arus alat tidak melebihi batasnya. Kalau toko tidak mencantumkannya, alat listrik pemanas berdaya besar seperti ketel listrik, penanak nasi, setrika, dan pengering rambut jangan disambungkan | Memakai alat berdaya besar lewat adaptor sehingga adaptor menjadi panas |
 | Keselamatan dan mutu | Pilih yang bahannya terlihat kokoh dan pin-nya tidak goyang; kalau toko tidak mencantumkan sertifikat keselamatan, jangan dianggap pasti memenuhi standar. Kalau saat dipakai terasa panas, tercium bau gosong, atau steker longgar, hentikan pemakaian | Membeli yang sangat murah tanpa keterangan, lalu setelah lama dipakai pin-nya longgar dan panas |
+
+[Ilustrasi: dua label alat, kiri bertulis input 100 sampai 240 volt (cukup pakai adaptor), kanan hanya 220 volt (tidak cukup dengan adaptor)]
+
+Ilustrasi: lihat "INPUT" pada label alat atau charger. Kalau tertulis 100–240V, cukup pakai adaptor; kalau hanya 220V, tidak bisa diatasi dengan adaptor.
 
 Tidak ada adaptor yang "paling bagus"; lihat dulu label tegangan alat, baru bentuk steker dan daya pemakaian. Charger HP dan laptop dengan input 100–240V bisa dipakai dengan adaptor Euro ke US; alat yang hanya tertulis 220V seperti penanak nasi, ketel listrik, dan kipas angin jangan dipaksakan di Taiwan, sebaiknya beli alat yang dijual di Taiwan (110V) atau tanyakan kepada majikan, pemilik rumah, atau orang yang paham kelistrikan. Isi halaman ini hanyalah panduan ringkas untuk membantu memilih, bukan saran teknisi listrik atau standar keselamatan; kalau ragu tentang pemakaian alat listrik, ikuti label alat dan buku panduannya.
 
@@ -54,6 +62,12 @@ Shopee Taiwan memakai bahasa Mandarin, jadi mencari dengan kata Indonesia biasan
 | 月銷熱賣 | yuè xiāo rèmài | terlaris bulanan | Pilihan urutan hasil pencarian di Shopee Taiwan (nama tampilannya bisa berubah), berguna untuk melihat produk yang banyak terjual |
 
 Nama merek di kemasan biasanya juga dalam bahasa Mandarin. Kalau ragu, foto tulisan di kemasan atau halaman produk dengan fitur terjemahan kamera di ponsel (misalnya Google Terjemahan), lalu cocokkan dengan tabel di atas. Daftar ini hanya panduan kata kunci, bukan terjemahan resmi; tulisan di halaman produk bisa berbeda.
+
+> **Tunjukkan ke staf toko, atau tempel di chat Shopee**
+>
+> 請問有歐規轉美規的轉接頭嗎？ (Qǐngwèn yǒu ōuguī zhuǎn měiguī de zhuǎnjiētóu ma?) — Apakah ada adaptor steker Euro ke US?
+> 我的電器是圓腳插頭，要在台灣的插座使用。 (Wǒ de diànqì shì yuán jiǎo chātóu, yào zài Táiwān de chāzuò shǐyòng.) — Alat saya berpin bulat dan mau dipakai di stopkontak Taiwan.
+> 這個轉接頭的額定功率是多少？ (Zhège zhuǎnjiētóu de édìng gōnglǜ shì duōshǎo?) — Berapa daya nominal adaptor ini?
 
 > Halaman ini murni panduan pemilihan, bukan ulasan berbayar untuk produk tertentu. Link di bawah adalah link afiliasi Shopee — kalau kamu membeli lewat link tersebut, kami mungkin mendapat komisi kecil. Harga yang kamu bayar tidak berubah.
 

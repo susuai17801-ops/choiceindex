@@ -5,6 +5,10 @@ Last updated: October 18, 2026
 
 Household outlets in Taiwan typically supply 110V and use flat-pin plugs. In many other countries, including Indonesia, household outlets supply around 220–230V, and plugs are often round-pin. If you bring a charger, fan, or appliance from home to Taiwan, the first thing you may notice is that the plug does not fit. Shopee has many adapters, but most of them are travel adapters made for people from Taiwan going abroad, which is the opposite direction. More important: an adapter only changes the shape of the plug. It does not change the voltage. This guide explains the types of adapters, 5 things to check before you buy, and why you must read the label on your device first.
 
+[Diagram: a plug with two round pins on the left, an adapter in the middle, and a Taiwan plug with two flat pins on the right]
+
+Diagram: a round-pin plug becomes a flat-pin plug for Taiwan through an adapter. The adapter changes the shape only, not the voltage.
+
 ## First, Understand the 4 Common Types of Adapters
 
 | Type | What it does | Who it is for | What to watch for |
@@ -23,6 +27,10 @@ Household outlets in Taiwan typically supply 110V and use flat-pin plugs. In man
 | Plug shape and pin size | Check whether your device has round or flat pins. Round pins come in different sizes (for example 4.0 mm and 4.8 mm). If the size does not match, the fit can be too loose or too tight. Some flat-pin plugs (for example some devices from Vietnam and the Philippines) may also fit Taiwan outlets directly | Round-pin size does not match, so the fit is loose and the contact is poor |
 | Power rating and current | Check whether the adapter lists a maximum power and current, and whether it is higher than what your device uses. If the shop does not list it, do not connect high-power heating appliances such as electric kettles, rice cookers, irons, and hair dryers | Using a high-power device through an adapter, so the adapter overheats |
 | Safety and quality | Choose one that feels solid and whose pins do not wobble. If the shop does not list a safety certification, do not assume it meets any standard. If it gets hot, smells burnt, or the plug becomes loose while in use, stop using it | Buying a very cheap adapter with no information, and after some time the pins become loose and hot |
+
+[Diagram: two device labels. The left says input 100 to 240 volts (an adapter is enough). The right says 220 volts only (an adapter cannot fix it)]
+
+Diagram: read the INPUT line on the label of the device or charger. If it says 100–240V, an adapter is enough. If it says only 220V, an adapter cannot fix it.
 
 There is no single "best" adapter. Check the voltage label on your device first, then the plug shape and the power it uses. A phone or laptop charger with an input of 100–240V works with a Euro-to-US adapter. Devices that say only 220V, such as rice cookers, electric kettles, and fans, should not be forced to work in Taiwan. It is better to buy a device sold in Taiwan (110V), or ask your employer, landlord, or a qualified electrician. This page is only a buying guide, not electrician advice or a safety standard. If you are unsure how to use an electrical device, follow the label on the device and its manual.
 
@@ -54,6 +62,12 @@ Shopee Taiwan uses Chinese, so searching in English usually returns nothing usef
 | 月銷熱賣 | yuè xiāo rèmài | best sellers this month | A sorting option in Shopee Taiwan search results (the display name may change), useful for finding what many people buy |
 
 Brand names on packaging are usually in Chinese too. If you are not sure, use your phone's camera translation (for example Google Translate) on the packaging or the product page and compare it with the table above. This list is only a keyword guide, not an official translation, and the text on a product page may differ.
+
+> **Show this to the shop staff, or paste it into the Shopee chat**
+>
+> 請問有歐規轉美規的轉接頭嗎？ (Qǐngwèn yǒu ōuguī zhuǎn měiguī de zhuǎnjiētóu ma?) — Do you have a Euro-to-US plug adapter?
+> 我的電器是圓腳插頭，要在台灣的插座使用。 (Wǒ de diànqì shì yuán jiǎo chātóu, yào zài Táiwān de chāzuò shǐyòng.) — My device has a round-pin plug and I need to use it in a Taiwan outlet.
+> 這個轉接頭的額定功率是多少？ (Zhège zhuǎnjiētóu de édìng gōnglǜ shì duōshǎo?) — What is the rated power of this adapter?
 
 > This page is a consumer guide, not a paid review of a specific product. The link below is a Shopee affiliate link. If you buy through it, we may receive a small commission. The price you pay does not change.
 

@@ -28,6 +28,10 @@ There is no single "best" hand warmer. It depends on where you use it, for how l
 
 ## Safety When Using Hand Warmers (Low-Temperature Burns)
 
+[Diagram: the left compares using a warmer over clothing with putting it directly on skin; the right is a temperature scale, 44 to 50 degrees can cause a low-temperature burn with long contact, 53 to 63 degrees is the heat listed by the shop]
+
+Diagram: use a hand warmer over clothing, never directly on the skin. On the right: the temperature range for low-temperature burns, and the heat listed by the shop for the example product (the shop's figure, not measured by us).
+
 - **Do not stick it directly on the skin** — A hand warmer is often hotter than 50°C. A low-temperature burn happens when the skin is in contact with a moderate temperature (about 44 to 50°C) for a long time. It may not hurt much at the time, and redness, swelling, or blisters appear later. Always use it over clothing.
 - **Do not use it while sleeping** — During sleep the skin is less sensitive to heat, the body can easily press on the same spot, and the warmer can get hotter than usual. It is not recommended to use it while sleeping.
 - **Check and move it regularly** — While using it, check the skin and move it to another spot regularly (doctors often suggest every 20 to 30 minutes). If the skin turns red, stings, or feels uncomfortably hot, take it off right away.
@@ -55,6 +59,12 @@ Shopee Taiwan uses Chinese, so searching in English usually returns nothing usef
 | 月銷熱賣 | yuè xiāo rèmài | best sellers this month | A sorting option in Shopee Taiwan search results (the display name may change), useful for finding what many people buy |
 
 Brand names on packaging are usually in Chinese too. If you are not sure, use your phone's camera translation (for example Google Translate) on the packaging or the product page and compare it with the table above. This list is only a keyword guide, not an official translation, and the text on a product page may differ.
+
+> **Show this to the shop staff, or paste it into the Shopee chat**
+>
+> 請問有貼式暖暖包嗎？ (Qǐngwèn yǒu tiēshì nuǎnnuǎn bāo ma?) — Do you have stick-on warmers?
+> 有手握式的嗎？ (Yǒu shǒuwò shì de ma?) — Do you have hand-held ones?
+> 請問製造日期和保存期限是什麼時候？ (Qǐngwèn zhìzào rìqí hé bǎocún qíxiàn shì shénme shíhòu?) — What are the production date and shelf life?
 
 > This page is a consumer guide, not a paid review of a specific product. The link below is a Shopee affiliate link. If you buy through it, we may receive a small commission. The price you pay does not change.
 
