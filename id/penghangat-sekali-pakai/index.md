@@ -34,7 +34,7 @@ Tidak ada hand warmer yang "paling bagus"; semuanya tergantung dipakai di mana, 
 - **Penderita diabetes, lansia, dan orang yang terus berbaring perlu ekstra hati-hati** — Orang yang kepekaan saraf tepinya berkurang bisa mengalami luka bakar tanpa menyadarinya, dan juga lebih sulit menyampaikan keluhan. Kalau memakaikan hand warmer pada orang seperti ini, periksa kulitnya bersama-sama; jangan menempelkan lalu pergi.
 - **Jangan diikat kencang dan jangan ditindih** — Mengikat hand warmer di badan dengan sabuk, atau menduduki dan menindihnya saat berbaring, membuat panas sulit keluar dan menambah risiko luka bakar.
 - **Kalau sudah terlanjur terbakar** — Lepas hand warmer, siram dengan air mengalir yang dingin untuk menurunkan suhu, jangan memecahkan lepuh sendiri; kalau lukanya parah atau luas, segera ke dokter.
-- **Membuang setelah dipakai** — Setelah dipakai, isinya tidak panas lagi; buang sesuai aturan pemilahan sampah setempat. Jangan membongkar kemasan, dan jauhkan dari jangkauan anak-anak dan hewan peliharaan.
+- **Membuang setelah dipakai** — Hand warmer bekas pakai mungkin masih hangat; biarkan sampai benar-benar dingin, lalu buang sesuai aturan pemilahan sampah setempat. Jangan membongkar kemasan, dan jauhkan dari jangkauan anak-anak dan hewan peliharaan.
 
 ## Cari di Shopee Taiwan: Kata Kunci Mandarin dan Arti Tulisan di Kemasan
 

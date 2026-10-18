@@ -34,7 +34,7 @@ Không có loại túi sưởi nào "tốt nhất"; tất cả tùy vào dùng �
 - **Người tiểu đường, người lớn tuổi, người nằm lâu cần đặc biệt cẩn thận** — Người có cảm giác ở đầu chi kém có thể bị bỏng mà không biết, cũng khó nói ra sự khó chịu. Khi dùng túi sưởi cho những người này, hãy cùng kiểm tra da, đừng dán xong rồi bỏ đi.
 - **Không buộc chặt và không đè lên** — Buộc túi sưởi vào người bằng đai, hoặc ngồi, nằm đè lên sẽ làm nhiệt không thoát ra được và tăng nguy cơ bỏng.
 - **Nếu đã bị bỏng** — Gỡ túi sưởi ra, xả nước lạnh chảy để hạ nhiệt, không tự làm vỡ bọng nước; nếu vết thương nặng hoặc rộng, hãy đi khám.
-- **Vứt sau khi dùng** — Dùng xong, bên trong không còn phát nhiệt; hãy vứt theo quy định phân loại rác của địa phương. Không xé bao bì để lấy phần bên trong ra; hãy để túi sưởi xa tầm tay trẻ em và thú cưng.
+- **Vứt sau khi dùng** — Túi sưởi đã dùng có thể vẫn còn hơi ấm; hãy để nguội hẳn rồi vứt theo quy định phân loại rác của địa phương. Không xé bao bì để lấy phần bên trong ra; hãy để túi sưởi xa tầm tay trẻ em và thú cưng.
 
 ## Tìm trên Shopee Đài Loan: từ khóa tiếng Trung và ý nghĩa chữ trên bao bì
 
