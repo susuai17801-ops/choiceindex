@@ -32,7 +32,7 @@ There is no single "best" extension cord. First estimate the total wattage you w
 
 ## Safety When Using an Extension Cord
 
-- **Keep the total within the rating** — The labeled wattage of devices used at the same time should not add up to more than the wattage on the cord. Do not fill every socket either.
+- **Keep the total within the rating** — The labeled wattage of devices used at the same time should not add up to more than the wattage on the cord. Be especially careful with high-power appliances: do not run several of them on the same cord at once.
 - **Do not connect high-power appliances** — Heaters, hair dryers, electric kettles, rice cookers, ovens, and microwaves use a lot of power. Plug them directly into a wall outlet rather than an extension cord.
 - **Do not chain extension cords** — Do not plug one extension cord into another, or connect several in a row. The cables and outlet may carry more current than they can handle.
 - **Do not use it coiled up** — Pull the whole cord out straight when it is in use. A coiled cord under load can overheat. Do not run it under heavy objects, a door, or a carpet.
@@ -76,7 +76,7 @@ Brand names on packaging are usually in Chinese too. If you are not sure, use yo
 
 ### FONGHUA Extension Cord with Individual Switches, 3-Prong (3 switches / 4 switches / 6 switches, 1.8 m)
 
-Shopee listing information (shown on October 20, 2026; prices and promotions may change): a Shopee-operated (official) listing with 30,000+ sold and about 17,000 reviews with a 5.0-star rating (we only quote these and have not checked them one by one, so treat them as a reference). The shop shows "official, eco-friendly no-packaging". Product information (shop's description, not independently verified by us): made in Taiwan, 3-pin flat plug, 1.8 m (6 ft) cord; three options with 3, 4, or 6 sockets and switches; listed voltage AC110V 60Hz and rating "AC125V / 15A / 1650W MAX"; overload protection listed as "15A fuseless automatic cut-off switch"; also lists individual switches and fire-resistant PC material; BSMI registration number R53951; 12-month warranty (supplier warranty). Before you buy: the listing shows both 110V and 125V for the voltage, and we did not check the registration number ourselves in the national standards bureau's system, so when it arrives check the inspection mark and rating printed on the product itself. The shop lists the item as no-packaging, so read the marking directly on the product. When you use it, still stay within the listed power and do not fill every socket. Compare the shop's information with the item you actually receive. We do not give electrician or safety advice.
+Shopee listing information (shown on October 20, 2026; prices and promotions may change): a Shopee-operated (official) listing with 30,000+ sold and about 17,000 reviews with a 5.0-star rating (we only quote these and have not checked them one by one, so treat them as a reference). The shop shows "official, eco-friendly no-packaging". Product information (shop's description, not independently verified by us): made in Taiwan, 3-pin flat plug, 1.8 m (6 ft) cord; three options with 3, 4, or 6 sockets and switches; listed voltage AC110V 60Hz and rating "AC125V / 15A / 1650W MAX"; overload protection listed as "15A fuseless automatic cut-off switch"; also lists individual switches and fire-resistant PC material; BSMI registration number R53951; 12-month warranty (supplier warranty). Before you buy: the listing shows both 110V and 125V for the voltage, and we did not check the registration number ourselves in the national standards bureau's system, so when it arrives check the inspection mark and rating printed on the product itself. The shop lists the item as no-packaging, so read the marking directly on the product. When you use it, still stay within the listed power. Compare the shop's information with the item you actually receive. We do not give electrician or safety advice.
 
 [View product / buy on Shopee →](https://s.shopee.tw/9067s4nPas)
 
@@ -87,7 +87,7 @@ Shopee listing information (shown on October 20, 2026; prices and promotions may
 - Overload protection? → Check the shop's listing, and still stay within the rated power when you use it
 - Do you want individual switches? → Worth considering if you have many devices and do not want to keep pulling plugs
 - Length, plug, and socket layout right? → Measure the length, check whether your devices are 2-pin or 3-pin, and whether big plugs block the next socket
-- When using it? → Do not fill every socket, do not chain cords, do not connect high-power appliances, and stop if it is hot or smells burnt
+- When using it? → Keep the total wattage within the rating, do not chain cords, do not connect high-power appliances, and stop if it is hot or smells burnt
 
 ## Frequently Asked Questions
 

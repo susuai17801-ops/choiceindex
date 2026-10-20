@@ -32,7 +32,7 @@ Tidak ada kabel ekstensi yang "paling bagus". Perkirakan dulu total watt yang ak
 
 ## Keselamatan saat Memakai Kabel Ekstensi
 
-- **Jaga total di bawah batas yang tertera** — Jumlah watt alat-alat yang dipakai bersamaan sebaiknya tidak melebihi watt pada kabel ekstensi. Jangan juga memenuhi semua lubang.
+- **Jaga total di bawah batas yang tertera** — Jumlah watt alat-alat yang dipakai bersamaan sebaiknya tidak melebihi watt pada kabel ekstensi. Terutama untuk alat berdaya besar, jangan dipakai bersamaan pada satu kabel ekstensi.
 - **Jangan sambungkan alat berdaya besar** — Pemanas ruangan, pengering rambut, ketel listrik, penanak nasi, oven, dan microwave memakai daya besar. Colokkan langsung ke stopkontak dinding, bukan ke kabel ekstensi.
 - **Jangan menyambung kabel ekstensi** — Jangan mencolokkan kabel ekstensi ke kabel ekstensi lain, atau menyambung beberapa sekaligus. Arus yang mengalir melalui kabel dan stopkontak bisa melebihi kapasitasnya.
 - **Jangan dipakai dalam keadaan tergulung** — Tarik seluruh kabel sampai lurus saat dipakai. Kabel yang tergulung saat dialiri listrik mudah panas. Jangan juga meletakkan kabel di bawah benda berat, menjepitnya di celah pintu, atau menutupinya dengan karpet.
@@ -76,7 +76,7 @@ Nama merek pada kemasan biasanya juga dalam bahasa Mandarin. Jika ragu, pakai te
 
 ### FONGHUA Kabel Ekstensi Saklar Terpisah 3 Kaki (3 saklar / 4 saklar / 6 saklar, 1,8 m)
 
-Informasi listing Shopee (tampil pada 20 Oktober 2026; harga dan promo bisa berubah): produk Shopee Langsung (resmi) dengan terjual 30.000+ dan sekitar 17.000 ulasan dengan rating 5,0 bintang (kami hanya mengutip dan belum memeriksa satu per satu, jadi anggap sebagai referensi). Toko menampilkan "resmi, ramah lingkungan tanpa kemasan". Informasi produk (keterangan toko, belum kami verifikasi sendiri): buatan Taiwan, steker pipih 3 kaki, kabel 1,8 m (6 kaki); ada tiga pilihan dengan 3, 4, atau 6 lubang dan saklar; tegangan tertulis AC110V 60Hz dan daya terukur "AC125V / 15A / 1650W MAX"; perlindungan beban berlebih tertulis "saklar pemutus otomatis tanpa sekering 15A"; juga tertulis saklar terpisah dan bahan PC tahan api; nomor registrasi BSMI R53951; garansi 12 bulan (garansi pemasok). Sebelum membeli: listing menampilkan tegangan 110V sekaligus 125V, dan kami belum memeriksa sendiri nomor registrasinya di sistem badan standar nasional, jadi saat barang tiba cek tanda inspeksi dan angka terukur yang tertera pada produk itu sendiri. Toko menulis produk tanpa kemasan, jadi baca langsung tulisan pada produknya. Saat dipakai, tetap patuhi daya yang tertera dan jangan memenuhi semua lubang. Bandingkan informasi toko dengan barang yang benar-benar kamu terima. Kami tidak memberi saran teknisi listrik atau keselamatan.
+Informasi listing Shopee (tampil pada 20 Oktober 2026; harga dan promo bisa berubah): produk Shopee Langsung (resmi) dengan terjual 30.000+ dan sekitar 17.000 ulasan dengan rating 5,0 bintang (kami hanya mengutip dan belum memeriksa satu per satu, jadi anggap sebagai referensi). Toko menampilkan "resmi, ramah lingkungan tanpa kemasan". Informasi produk (keterangan toko, belum kami verifikasi sendiri): buatan Taiwan, steker pipih 3 kaki, kabel 1,8 m (6 kaki); ada tiga pilihan dengan 3, 4, atau 6 lubang dan saklar; tegangan tertulis AC110V 60Hz dan daya terukur "AC125V / 15A / 1650W MAX"; perlindungan beban berlebih tertulis "saklar pemutus otomatis tanpa sekering 15A"; juga tertulis saklar terpisah dan bahan PC tahan api; nomor registrasi BSMI R53951; garansi 12 bulan (garansi pemasok). Sebelum membeli: listing menampilkan tegangan 110V sekaligus 125V, dan kami belum memeriksa sendiri nomor registrasinya di sistem badan standar nasional, jadi saat barang tiba cek tanda inspeksi dan angka terukur yang tertera pada produk itu sendiri. Toko menulis produk tanpa kemasan, jadi baca langsung tulisan pada produknya. Saat dipakai, tetap patuhi daya yang tertera. Bandingkan informasi toko dengan barang yang benar-benar kamu terima. Kami tidak memberi saran teknisi listrik atau keselamatan.
 
 [Lihat produk / beli di Shopee →](https://s.shopee.tw/9067s4nPas)
 
@@ -87,7 +87,7 @@ Informasi listing Shopee (tampil pada 20 Oktober 2026; harga dan promo bisa beru
 - Ada perlindungan beban berlebih? → Lihat keterangan toko, dan tetap pakai sesuai daya terukur
 - Mau saklar terpisah? → Layak dipertimbangkan jika alatmu banyak dan tidak mau sering mencabut steker
 - Panjang, steker, dan posisi lubang sudah pas? → Ukur panjangnya, cek alatmu berkaki 2 atau 3, dan apakah steker besar menutupi lubang sebelahnya
-- Saat dipakai? → Jangan penuhi semua lubang, jangan sambung kabel, jangan sambungkan alat berdaya besar, dan berhenti jika panas atau berbau gosong
+- Saat dipakai? → Jaga total watt di bawah batas, jangan sambung kabel, jangan sambungkan alat berdaya besar, dan berhenti jika panas atau berbau gosong
 
 ## Pertanyaan Umum
 
