@@ -23,6 +23,11 @@ We write comparison guides for things people in Taiwan buy all the time. Before 
 - [Mosquito Repellent Bands — what a band can and cannot do, how long it lasts, and who can use it](https://choiceindex.tw/en/mosquito-repellent-band/) — available
 - [Motorcycle Raincoats — two-piece or one-piece, material, reflective strips, and breathability](https://choiceindex.tw/en/motorcycle-raincoat/) — available
 - [Xiaomi Air Purifier Filters — antibacterial, formaldehyde, economy, and what the RFID chip does](https://choiceindex.tw/en/xiaomi-air-purifier-filter/) — available
+- [Shampoo — silicone-free, fragrance, and the real cost per ml](https://choiceindex.tw/en/shampoo/) — available
+- [Hand Soap and Foaming Hand Wash — liquid or foam, antibacterial claims, and refills](https://choiceindex.tw/en/hand-soap-foam/) — available
+- [Wet Wipes — pure water, alcohol, antibacterial, and cost per sheet](https://choiceindex.tw/en/wet-wipes/) — available
+- [Toilet Cleaner — flower gel, hanging gel, tank tablets, and strong cleaners](https://choiceindex.tw/en/toilet-gel/) — available
+- [Kitchen Sponges and Scouring Pads — pot type, delicate type, and which surfaces to avoid](https://choiceindex.tw/en/kitchen-sponge/) — available
 
 More guides will be added soon…
 
