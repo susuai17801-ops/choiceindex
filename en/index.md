@@ -13,9 +13,10 @@ We write comparison guides for things people in Taiwan buy all the time. Before 
 - [Power Plug Adapters for Taiwan — round-pin to flat-pin, and why an adapter never changes the voltage](https://choiceindex.tw/en/plug-adapter-taiwan/) — available
 - [Disposable Hand Warmers — stick-on, hand-held, foot warmers, and how to avoid low-temperature burns](https://choiceindex.tw/en/hand-warmer-pads/) — available
 - [Extension Cords for Taiwan — more sockets does not mean more power, and what the rating, overload protection and switches mean](https://choiceindex.tw/en/extension-cord/) — available
-- Trash Bags — including the special bags required in some cities — coming soon
-- Laundry Detergent and Laundry Pods — what the Chinese labels mean — coming soon
-- Dehumidifier Boxes — for Taiwan's humid weather — coming soon
+- [Trash Bags — size, solid roll or pull-out, cost per bag, and the special bags some cities require](https://choiceindex.tw/en/garbage-bags/) — available
+- [Laundry Detergent — liquid, concentrated gel, refill packs, and cost per wash](https://choiceindex.tw/en/laundry-detergent/) — available
+- [Laundry Pods — concentration, ingredients, and cost per pod](https://choiceindex.tw/en/laundry-pods/) — available
+- [Dehumidifier Boxes and Bags — water-collecting, hanging, charcoal, silica gel, and where to put them](https://choiceindex.tw/en/dehumidifier-bag/) — available
 
 More guides will be added soon…
 
