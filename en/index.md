@@ -13,11 +13,16 @@ We write comparison guides for things people in Taiwan buy all the time. Before 
 - [Power Plug Adapters for Taiwan — round-pin to flat-pin, and why an adapter never changes the voltage](https://choiceindex.tw/en/plug-adapter-taiwan/) — available
 - [Disposable Hand Warmers — stick-on, hand-held, foot warmers, and how to avoid low-temperature burns](https://choiceindex.tw/en/hand-warmer-pads/) — available
 - [Extension Cords for Taiwan — more sockets does not mean more power, and what the rating, overload protection and switches mean](https://choiceindex.tw/en/extension-cord/) — available
-- [Adult Diapers (成人紙尿褲) in Taiwan — pull-up or tape style, waist and hip size, day or night use, and absorbency](https://choiceindex.tw/en/adult-diapers/) — available
 - [Trash Bags — size, solid roll or pull-out, cost per bag, and the special bags some cities require](https://choiceindex.tw/en/garbage-bags/) — available
 - [Laundry Detergent — liquid, concentrated gel, refill packs, and cost per wash](https://choiceindex.tw/en/laundry-detergent/) — available
 - [Laundry Pods — concentration, ingredients, and cost per pod](https://choiceindex.tw/en/laundry-pods/) — available
 - [Dehumidifier Boxes and Bags — water-collecting, hanging, charcoal, silica gel, and where to put them](https://choiceindex.tw/en/dehumidifier-bag/) — available
+- [Adult Diapers (成人紙尿褲) in Taiwan — pull-up or tape style, waist and hip size, day or night use, and absorbency](https://choiceindex.tw/en/adult-diapers/) — available
+- [Dish Soap — certifications, concentration, and whether refill packs save money](https://choiceindex.tw/en/dish-soap/) — available
+- [Pull-Out Tissue and Kitchen Paper Towels — pulp, plies, and cost per sheet](https://choiceindex.tw/en/tissue-paper/) — available
+- [Mosquito Repellent Bands — what a band can and cannot do, how long it lasts, and who can use it](https://choiceindex.tw/en/mosquito-repellent-band/) — available
+- [Motorcycle Raincoats — two-piece or one-piece, material, reflective strips, and breathability](https://choiceindex.tw/en/motorcycle-raincoat/) — available
+- [Xiaomi Air Purifier Filters — antibacterial, formaldehyde, economy, and what the RFID chip does](https://choiceindex.tw/en/xiaomi-air-purifier-filter/) — available
 
 More guides will be added soon…
 
