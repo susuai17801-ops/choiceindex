@@ -28,6 +28,7 @@ We write comparison guides for things people in Taiwan buy all the time. Before 
 - [Wet Wipes — pure water, alcohol, antibacterial, and cost per sheet](https://choiceindex.tw/en/wet-wipes/) — available
 - [Toilet Cleaner — flower gel, hanging gel, tank tablets, and strong cleaners](https://choiceindex.tw/en/toilet-gel/) — available
 - [Kitchen Sponges and Scouring Pads — pot type, delicate type, and which surfaces to avoid](https://choiceindex.tw/en/kitchen-sponge/) — available
+- [Bathroom Non-Slip Mats — suction-cup, interlocking tiles, size, and drainage](https://choiceindex.tw/en/bath-mat/) — available
 
 More guides will be added soon…
 
