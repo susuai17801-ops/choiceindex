@@ -44,6 +44,7 @@ We write comparison guides for things people in Taiwan buy all the time. Before 
 - [Clotheslines with Clips — stretch cord, rust-resistant clips, and cost per clip](https://choiceindex.tw/en/clothesline-clips/) — available
 - [Static-Cling Window Film — frosted, no glue, width and length, privacy level, and renting tips](https://choiceindex.tw/en/window-film/) — available
 - [Motorcycle Helmets — CNS 2396, the inspection mark, helmet types, and sizing](https://choiceindex.tw/en/motorcycle-helmet/) — available
+- [Electric Blankets — the inspection mark, Chinese labels, voltage and wattage, and washability](https://choiceindex.tw/en/electric-blanket/) — available
 
 More guides will be added soon…
 
