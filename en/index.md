@@ -29,6 +29,11 @@ We write comparison guides for things people in Taiwan buy all the time. Before 
 - [Toilet Cleaner — flower gel, hanging gel, tank tablets, and strong cleaners](https://choiceindex.tw/en/toilet-gel/) — available
 - [Kitchen Sponges and Scouring Pads — pot type, delicate type, and which surfaces to avoid](https://choiceindex.tw/en/kitchen-sponge/) — available
 - [Bathroom Non-Slip Mats — suction-cup, interlocking tiles, size, and drainage](https://choiceindex.tw/en/bath-mat/) — available
+- [Dental Floss Picks — single or double line, individually wrapped or boxed, and what to check](https://choiceindex.tw/en/dental-floss-picks/) — available
+- [Drain Cleaner — gel, liquid, powder, and plungers, and how to use it safely](https://choiceindex.tw/en/drain-cleaner/) — available
+- [Washing Machine Cleaner — no-soak oxygen powder vs chlorine liquid, and the cost per clean](https://choiceindex.tw/en/washing-machine-cleaner/) — available
+- [Plastic Wrap — PE, PVC, and PVDC, and microwave and fridge use](https://choiceindex.tw/en/plastic-wrap/) — available
+- [Cockroach Bait — bait stations, gel bait, sprays, and the cost per station](https://choiceindex.tw/en/cockroach-bait/) — available
 
 More guides will be added soon…
 
