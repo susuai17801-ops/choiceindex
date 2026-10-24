@@ -34,6 +34,11 @@ We write comparison guides for things people in Taiwan buy all the time. Before 
 - [Washing Machine Cleaner — no-soak oxygen powder vs chlorine liquid, and the cost per clean](https://choiceindex.tw/en/washing-machine-cleaner/) — available
 - [Plastic Wrap — PE, PVC, and PVDC, and microwave and fridge use](https://choiceindex.tw/en/plastic-wrap/) — available
 - [Cockroach Bait — bait stations, gel bait, sprays, and the cost per station](https://choiceindex.tw/en/cockroach-bait/) — available
+- [Sticky Mouse Traps — glue boards, live-catch cages, electric traps, poison, and where to place them](https://choiceindex.tw/en/sticky-mouse-trap/) — available
+- [Shoe Deodorizing Spray — antibacterial ingredients, spray head, and how to use it](https://choiceindex.tw/en/shoe-odor-spray/) — available
+- [Deodorizing Insoles — charcoal, antibacterial foam, arch support, and cost per pair](https://choiceindex.tw/en/deodorizing-insoles/) — available
+- [LED Light Bulbs — base type, color temperature, brightness, and energy-saving labels](https://choiceindex.tw/en/led-bulb/) — available
+- [Household Batteries — AA and AAA, zinc-carbon, alkaline, rechargeable, and cost per battery](https://choiceindex.tw/en/household-batteries/) — available
 
 More guides will be added soon…
 
