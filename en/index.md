@@ -43,6 +43,7 @@ We write comparison guides for things people in Taiwan buy all the time. Before 
 - [Work Earplugs — NRR, foam vs stemmed, reusable silicone, and cost per pair](https://choiceindex.tw/en/work-earplugs/) — available
 - [Clotheslines with Clips — stretch cord, rust-resistant clips, and cost per clip](https://choiceindex.tw/en/clothesline-clips/) — available
 - [Static-Cling Window Film — frosted, no glue, width and length, privacy level, and renting tips](https://choiceindex.tw/en/window-film/) — available
+- [Motorcycle Helmets — CNS 2396, the inspection mark, helmet types, and sizing](https://choiceindex.tw/en/motorcycle-helmet/) — available
 
 More guides will be added soon…
 
