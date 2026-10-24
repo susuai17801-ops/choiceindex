@@ -42,6 +42,7 @@ We write comparison guides for things people in Taiwan buy all the time. Before 
 - [Non-Slip Work Gloves — dotted, palm-dipped, thick cotton, and what "cut-resistant" really means](https://choiceindex.tw/en/work-gloves/) — available
 - [Work Earplugs — NRR, foam vs stemmed, reusable silicone, and cost per pair](https://choiceindex.tw/en/work-earplugs/) — available
 - [Clotheslines with Clips — stretch cord, rust-resistant clips, and cost per clip](https://choiceindex.tw/en/clothesline-clips/) — available
+- [Static-Cling Window Film — frosted, no glue, width and length, privacy level, and renting tips](https://choiceindex.tw/en/window-film/) — available
 
 More guides will be added soon…
 
