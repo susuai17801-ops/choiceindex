@@ -39,6 +39,9 @@ We write comparison guides for things people in Taiwan buy all the time. Before 
 - [Deodorizing Insoles — charcoal, antibacterial foam, arch support, and cost per pair](https://choiceindex.tw/en/deodorizing-insoles/) — available
 - [LED Light Bulbs — base type, color temperature, brightness, and energy-saving labels](https://choiceindex.tw/en/led-bulb/) — available
 - [Household Batteries — AA and AAA, zinc-carbon, alkaline, rechargeable, and cost per battery](https://choiceindex.tw/en/household-batteries/) — available
+- [Non-Slip Work Gloves — dotted, palm-dipped, thick cotton, and what "cut-resistant" really means](https://choiceindex.tw/en/work-gloves/) — available
+- [Work Earplugs — NRR, foam vs stemmed, reusable silicone, and cost per pair](https://choiceindex.tw/en/work-earplugs/) — available
+- [Clotheslines with Clips — stretch cord, rust-resistant clips, and cost per clip](https://choiceindex.tw/en/clothesline-clips/) — available
 
 More guides will be added soon…
 
