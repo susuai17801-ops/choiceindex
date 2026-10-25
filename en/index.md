@@ -46,6 +46,7 @@ We write comparison guides for things people in Taiwan buy all the time. Before 
 - [Motorcycle Helmets — CNS 2396, the inspection mark, helmet types, and sizing](https://choiceindex.tw/en/motorcycle-helmet/) — available
 - [Electric Blankets — the inspection mark, Chinese labels, voltage and wattage, and washability](https://choiceindex.tw/en/electric-blanket/) — available
 - [Carbon Monoxide Alarms — the approval standard, type approval number, service life, and rental water heaters](https://choiceindex.tw/en/carbon-monoxide-alarm/) — available
+- [Home Fire Extinguishers — the approval mark, type approval number, size and weight of the 5 and 10 types, and the factory manufacture date](https://choiceindex.tw/en/fire-extinguisher/) — available
 
 More guides will be added soon…
 
