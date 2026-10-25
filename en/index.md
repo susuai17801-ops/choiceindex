@@ -45,6 +45,7 @@ We write comparison guides for things people in Taiwan buy all the time. Before 
 - [Static-Cling Window Film — frosted, no glue, width and length, privacy level, and renting tips](https://choiceindex.tw/en/window-film/) — available
 - [Motorcycle Helmets — CNS 2396, the inspection mark, helmet types, and sizing](https://choiceindex.tw/en/motorcycle-helmet/) — available
 - [Electric Blankets — the inspection mark, Chinese labels, voltage and wattage, and washability](https://choiceindex.tw/en/electric-blanket/) — available
+- [Carbon Monoxide Alarms — the approval standard, type approval number, service life, and rental water heaters](https://choiceindex.tw/en/carbon-monoxide-alarm/) — available
 
 More guides will be added soon…
 
