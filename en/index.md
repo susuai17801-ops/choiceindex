@@ -47,6 +47,7 @@ We write comparison guides for things people in Taiwan buy all the time. Before 
 - [Electric Blankets — the inspection mark, Chinese labels, voltage and wattage, and washability](https://choiceindex.tw/en/electric-blanket/) — available
 - [Carbon Monoxide Alarms — the approval standard, type approval number, service life, and rental water heaters](https://choiceindex.tw/en/carbon-monoxide-alarm/) — available
 - [Home Fire Extinguishers — the approval mark, type approval number, size and weight of the 5 and 10 types, and the factory manufacture date](https://choiceindex.tw/en/fire-extinguisher/) — available
+- [Care Underpads (看護墊) — 90×60 size, thick vs breathable absorbency, bottom film color, and pieces per pack](https://choiceindex.tw/en/care-underpad/) — available
 
 More guides will be added soon…
 
