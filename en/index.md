@@ -49,6 +49,7 @@ We write comparison guides for things people in Taiwan buy all the time. Before 
 - [Home Fire Extinguishers — the approval mark, type approval number, size and weight of the 5 and 10 types, and the factory manufacture date](https://choiceindex.tw/en/fire-extinguisher/) — available
 - [Care Underpads (看護墊) — 90×60 size, thick vs breathable absorbency, bottom film color, and pieces per pack](https://choiceindex.tw/en/care-underpad/) — available
 - [Electric Heaters (電暖器) — the inspection mark, 110V voltage, wattage and sockets, and warranty](https://choiceindex.tw/en/electric-heater/) — available
+- [Rice Cookers (電鍋 / 電子鍋) — servings and capacity, energy efficiency grade, the inspection mark, wattage, and a low, middle, and high price comparison](https://choiceindex.tw/en/rice-cooker/) — available
 
 More guides will be added soon…
 
