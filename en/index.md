@@ -50,6 +50,7 @@ We write comparison guides for things people in Taiwan buy all the time. Before 
 - [Care Underpads (看護墊) — 90×60 size, thick vs breathable absorbency, bottom film color, and pieces per pack](https://choiceindex.tw/en/care-underpad/) — available
 - [Electric Heaters (電暖器) — the inspection mark, 110V voltage, wattage and sockets, and warranty](https://choiceindex.tw/en/electric-heater/) — available
 - [Rice Cookers (電鍋 / 電子鍋) — servings and capacity, energy efficiency grade, the inspection mark, wattage, and a low, middle, and high price comparison](https://choiceindex.tw/en/rice-cooker/) — available
+- [Shower Chairs for Older Adults (洗澡椅) — backrest and armrests, seat height, size, weight rating, and subsidies that need assessment first](https://choiceindex.tw/en/shower-chair/) — available
 
 More guides will be added soon…
 
