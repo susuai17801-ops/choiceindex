@@ -1,83 +1,60 @@
-# How to Choose a Child Booster Seat (兒童增高座墊) in Taiwan: Ages 4-12, Weight Range, Fixing Method, Inspection Number, and What the Rules Say
+# How to Choose a Child Booster Seat (兒童增高座墊) in Taiwan: A Guide for Ages 4-12 and Our Pick
 
 Last updated: October 31, 2026
 選品索引 ChoiceIndex — https://choiceindex.tw/en/
 
-On Shopee Taiwan, a search for “兒童安全座椅” returns everything from portable cushions at a few hundred NT dollars to growing-stage car seats at over ten thousand, and titles often list 汽座, 增高墊, and 安全座椅 all at once, so it is hard to tell them apart. We checked Taiwan's official sources: Article 31, paragraph 3 of the Road Traffic Management and Penalty Act (道路交通管理處罰條例) says a driver of a small vehicle who carries a young child without placing the child in a safety seat as required is fined NT$1,500 to NT$3,000. The Regulations on the Safe Riding of Young Children in Small Vehicles (小型車附載幼童安全乘坐實施及宣導辦法) define a “young child” as aged 4 or under and weighing 18 kg or less, require children aged 2 or under to use a rear-facing seat or portable infant bed, and have them all sit in the rear seat. For children over 4 up to 12, or over 18 kg up to 36 kg, the text we read only says to sit in the rear seat and wear a seat belt as required by the seat belt rules, and does not say whether a booster seat is required. The product on this page is listed only for 15 to 36 kg (about ages 4 to 12) and does not cover children under 4. We did not find an official buying guide for booster seats, and we have not checked the inspection number the seller lists against the Bureau of Standards system. This page sorts out what listings show and gives a checklist before ordering on Shopee. It does not cover installation or use, and it is not safety or medical advice.
+For a child aged 4 to 12, five things are a good place to start when choosing a booster seat: suitable weight and age, fixing method, size and space in the car, inspection number and insurance, and warranty and returns. This page goes through them one by one, then recommends an affordable booster seat we found: suitable for 15 to 36 kg, fixed with a three-point seat belt, made in Taiwan, with a 1-year warranty.
 
-## First, How Shopee Labels Child Car Seats
+## Types of Child Car Seats
 
-| Type | How listings label it | What to watch for |
+| Type | Common labels | Who it suits |
 |---|---|---|
-| Infant carrier / rear-facing seat (young children) | Labeled infant carrier, rear-facing, ages 0 to 2 or 0 to 4; the official regulation says children aged 2 or under use a rear-facing seat or portable infant bed in the rear seat | The product on this page is not this type and does not cover children under 4; families with a child under 4 should look at this type separately |
-| Growing-stage car seat (ISOFIX, swivel) | Labeled ages 0 to 12, growing-stage, ISOFIX, swivel; on Shopee's search page we saw prices from about NT$3,000, with the highest above NT$16,000 | Many features and a high price; we have not compared them one by one; the product on this page is not this type |
-| Booster seat (the product on this page) | Labeled booster seat, suitable for 15 to 36 kg, about ages 4 to 12, fixed with the car's three-point seat belt, no ISOFIX; we saw this type from roughly NT$400 to over NT$2,000 | Only suitable for the weight range the seller lists; if the child's weight or age is outside it, do not use it; specs are mostly filled in by the seller and we have not checked each item |
+| Infant carrier / rear-facing seat | Labeled infant carrier, rear-facing, ages 0 to 2 or 0 to 4, for younger children | Families with a child under 4 look at this type; the recommended product on this page is not this type |
+| Growing-stage car seat (ISOFIX, swivel) | Labeled ages 0 to 12, growing-stage, ISOFIX, swivel; prices from about NT$3,000, the highest above NT$16,000 | Many features and a higher price; suits families who want one seat to last for years |
+| Booster seat (the recommended product on this page) | Labeled booster seat, suitable for 15 to 36 kg, about ages 4 to 12, fixed with the car's three-point seat belt; roughly NT$400 to over NT$2,000 | Compact, easy to store, and affordable; suits a child whose weight and age fall within the listed range |
 
-These types are just how we sort listing labels, not an official classification. There is no single “best”; it depends on the child's age and weight and the car seat. We only cover choosing, not installation or use, and this is not safety or medical advice.
+Choose the type that fits your child's age and weight and the car seat you have.
 
 ## Five Key Things When Choosing a Child Booster Seat
 
-| Key point | What to check | Common problem |
+| Key point | How to check | What often happens |
 |---|---|---|
-| Suitable weight and age | The seller of this product lists it for 15 to 36 kg, about ages 4 to 12. The official regulation defines a “young child” as aged 4 or under and 18 kg or less, and that range must use a dedicated child seat. Check yourself whether your child's age and weight fall inside the seller's range before ordering; we do not judge this for you | Buying even though the child's weight or age is outside the range |
-| Fixing method | The seller says it is fixed with the car's three-point seat belt and has no ISOFIX (“此為平放款並無ISOFIX”, a flat model without ISOFIX); the seller also says it must go in the rear seat. For how to install it correctly, see the product manual; we do not give installation guidance | Assuming it has ISOFIX and finding out only after delivery that it does not |
-| Size and space in the car | The seller lists hip width 25 cm, depth 33 cm, overall about 44 cm wide × 35 cm deep × 18 cm high, and 1.3 kg. Children's builds and car seat shapes differ, so measure yourself, and ask the seller about anything not listed | It arrives but does not fit the child or the seat |
-| Inspection number and insurance | The seller lists the product inspection number BSMI R37531 and says it passed CNS 11497; the seller also says it carries product liability insurance of NT$30 million, with the note “the insured amount is not the claim amount”. All of this is self-reported by the seller; we have not checked it in the Bureau of Standards system and did not see the policy | Treating the seller's number and insurance as already verified |
-| Returns and warranty | Shopee's product page shows a “15天鑑賞期” (15-day trial period); the seller states a 1-year warranty (defects in new items) and says not to use it before the purchase is confirmed, and that damage or dirt from use or incomplete packaging may affect returns. Go by the listing page | Opening and trying it first, then being unable to return it because it does not fit |
-
-## Buying for a Child: What the Official Rules Say, and Who to Ask First
-
-- **What we found in the official sources** — Article 31, paragraph 3 of the Road Traffic Management and Penalty Act: a driver of a small vehicle who carries a young child not placed in a safety seat as required is fined NT$1,500 to NT$3,000. The Regulations on the Safe Riding of Young Children in Small Vehicles (amended March 2, 2020): a young child is aged 4 or under and 18 kg or less; children aged 2 or under sit in a portable infant bed or rear-facing seat in the rear seat; children over 2 up to 4 and 18 kg or less sit in a young-child seat in the rear seat; for children over 4 up to 12, or over 18 kg up to 36 kg, the text we read says to sit in the rear seat and use a seat belt as required by the seat belt rules.
-- **What these rules do not say** — The regulations we read do not mention booster seats, do not say children aged 4 to 12 “must” use one, and we found no official recommendation or buying guide for boosters. The rule for a “child over 4 who weighs over 18 kg” is also unclear in the text. So we do not say a booster is legally required, and we do not judge whether your child needs one.
-- **If unsure, ask the authorities** — If your child's age or weight is near a boundary, the vehicle is unusual, or it is a taxi, the rules may differ. Ask the Ministry of Transportation and Communications (交通部), the police, or the vehicle supervision office; we do not give legal advice.
-- **We do not cover installation or use** — This page only sorts out buying directions; it is not safety or medical advice. For installation and use, see the product manual.
-
-## Before You Order, Check These
-
-- Confirm your child's weight and age fall within the seller's 15 to 36 kg (about ages 4 to 12); a child under 4 is not this type.
-- Confirm the rear seat of your car can be used and measure the spot; the seller lists hip width 25 cm, depth 33 cm, and overall about 44 × 35 × 18 cm.
-- Understand that this is a flat model without ISOFIX, fixed with a three-point seat belt, and compare it with what you want.
-- To check the inspection number R37531, search the Bureau of Standards, Metrology and Inspection (標檢局) product inspection mark lookup, or ask the seller for a test report.
-- Save screenshots of the listing page (specs, suitable weight, warranty and return terms), and after delivery do not use it until you have confirmed it fits.
-
-## Searching on Shopee Taiwan: Chinese Keywords and Meanings
-
-Shopee Taiwan uses Chinese, so searching in English usually gives poor results. Copy the keywords below and paste them into Shopee's search box.
-
-| Keyword (Chinese) | Pinyin | Meaning | What it is for |
-|---|---|---|---|
-| 兒童增高座墊 | értóng zēnggāo zuòdiàn | child booster seat | Keyword for the product on this page |
-| 兒童安全座椅 | értóng ānquán zuòyǐ | child safety seat (child car seat) | A broader keyword; results include every type |
-| 汽座 | qìzuò | car seat (short term) | Often seen in product titles |
-| 適用體重 | shìyòng tǐzhòng | suitable weight | The kilogram range the seller lists |
-| 三點式安全帶 | sāndiǎnshì ānquándài | three-point seat belt | How this model without ISOFIX is fixed |
-| 檢驗字號 | jiǎnyàn zìhào | inspection number | A number the seller lists, e.g. R37531 |
-| 臀寬 | túnkuān | hip width | The size of the child's seating area |
-| 後座 | hòuzuò | rear seat | The seller says it must go in the rear seat |
-
-Brand names on packaging are usually in Chinese too. If unsure, use a phone camera translation app (such as Google Translate) on the packaging or product page and compare it with the table above. This list is only a keyword guide, not an official translation, and the wording on a product page may differ.
-
-> **Show this to the shop staff, or paste it into Shopee chat**
->
-> 請問這款增高座墊適用幾公斤？我家孩子的體重可以用嗎？ (Qǐngwèn zhè kuǎn zēnggāo zuòdiàn shìyòng jǐ gōngjīn? Wǒ jiā háizi de tǐzhòng kěyǐ yòng ma?) — What weight is this booster seat suitable for? Is my child's weight within the range?
-> 請問檢驗字號 R37531 可以在哪裡查？有沒有檢驗報告？ (Qǐngwèn jiǎnyàn zìhào R37531 kěyǐ zài nǎlǐ chá? Yǒu méiyǒu jiǎnyàn bàogào?) — Where can the inspection number R37531 be checked? Is there a test report?
-> 請問尺寸多大？收到不合適可以怎麼退換？ (Qǐngwèn chǐcùn duō dà? Shōudào bù héshì kěyǐ zěnme tuìhuàn?) — What are the dimensions? If it arrives and does not fit, how do returns or exchanges work?
+| Suitable weight and age | The recommended product is listed for 15 to 36 kg, about ages 4 to 12. Before ordering, weigh your child and confirm the weight falls within this range | The child's weight or age is outside the range |
+| Fixing method | The recommended product is fixed with the car's three-point seat belt and needs no ISOFIX (the seller lists it as a flat model), and it goes in the rear seat; for correct installation, see the product manual | Assuming it has ISOFIX and finding out only after delivery that it does not |
+| Size and space in the car | The seller lists hip width 25 cm, depth 33 cm, overall about 44 cm wide × 35 cm deep × 18 cm high, and 1.3 kg. Children's builds and car seat shapes differ, so we suggest measuring before you order | It arrives but does not fit the child or the seat |
+| Inspection number and insurance | The seller lists the product inspection number BSMI R37531 and says it passed CNS 11497, along with product liability insurance of NT$30 million (the seller notes the insured amount is not the claim amount). To confirm the number, use the Bureau of Standards, Metrology and Inspection (標檢局) product inspection mark lookup, or ask the seller for a test report | Relying only on the number the seller wrote, without confirming it |
+| Warranty and returns | Shopee's product page shows a 15-day trial period, and the seller gives a 1-year warranty (defects in new items); the seller asks that it not be used before the purchase is confirmed, because damage or dirt from use or incomplete packaging may affect returns | Opening and trying it first, then finding it does not fit |
 
 > This page is a buying guide, not a paid review of a specific product. Links below are Shopee affiliate links. If you buy through them, we may earn a small commission at no extra cost to you.
 
 ### 【OMyCar】“Xiao Guaiguai” child booster seat (Shopee Mall, black-orange / black-red)
 
-Shopee listing info (shown October 31, 2026; prices and promotions may change): rating 5.0, 1,142 reviews, over 2,000 sold; the price shown is NT$469 (original NT$522), shipped from Tucheng District, New Taipei, and the page shows a 15-day trial period. Seller's description (not verified by us): suitable for 15 to 36 kg (about ages 4 to 12), fixed with the three-point seat belt, no ISOFIX, hip width 25 cm, depth 33 cm, 1.3 kg, made in Taiwan, BSMI R37531, 1-year warranty. We do not give installation or safety advice; please go by the listing page and the product manual.
+Shopee listing info (shown October 31, 2026; prices and promotions may change): rating 5.0, 1,142 reviews, over 2,000 sold; the price shown is NT$469 (original NT$522), shipped from Tucheng District, New Taipei, and the page shows a 15-day trial period. Seller's description: suitable for 15 to 36 kg (about ages 4 to 12), fixed with the three-point seat belt, no ISOFIX, hip width 25 cm, depth 33 cm, 1.3 kg, made in Taiwan, BSMI R37531, 1-year warranty. Please go by the listing page and the product manual.
 
 [View product / buy on Shopee →](https://s.shopee.tw/3LS2182xxX)
 
 ## Quick Pre-Purchase Checklist
 
-- Is the child's weight and age within the range? → The seller says 15 to 36 kg, about ages 4 to 12; a child under 4 is not this type
-- Does the fixing method suit you? → Three-point seat belt, no ISOFIX, and the seller also says it must go in the rear seat
-- Does the size fit the child and the seat? → The seller lists hip width 25 cm, depth 33 cm, overall about 44 × 35 × 18 cm
-- How do I check the inspection number? → The seller says R37531, which we have not verified; use the Bureau of Standards lookup or ask for a test report
+- Is the child's weight and age within the range? → 15 to 36 kg, about ages 4 to 12; a child under 4 is not this type
+- Does the fixing method suit you? → Three-point seat belt, no ISOFIX, rear seat
+- Does the size fit the child and the seat? → Hip width 25 cm, depth 33 cm, overall about 44 × 35 × 18 cm
+- How do I confirm the inspection number? → The seller lists R37531; check the Bureau of Standards lookup or ask for a test report
 - Can I return it if it does not fit? → The page shows a 15-day trial period, but the seller says use or damage may affect returns; confirm after delivery before using it
+
+## Before You Order, Check These
+
+- Confirm your child's weight and age fall within 15 to 36 kg (about ages 4 to 12); a child under 4 is not this type.
+- Confirm the rear seat of your car can be used and measure the spot; overall about 44 × 35 × 18 cm, hip width 25 cm, depth 33 cm.
+- This is a flat model without ISOFIX, fixed with a three-point seat belt; confirm it suits your needs.
+- To confirm the inspection number R37531, use the Bureau of Standards product inspection mark lookup, or ask the seller for a test report.
+- Save screenshots of the listing page (specs, suitable weight, warranty and return terms), and after delivery confirm it fits before using it.
+
+## What the Official Rules Say
+
+- **What we found in the official sources** — Article 31, paragraph 3 of the Road Traffic Management and Penalty Act: a driver of a small vehicle who carries a young child not placed in a safety seat as required is fined NT$1,500 to NT$3,000. The Regulations on the Safe Riding of Young Children in Small Vehicles (amended March 2, 2020): a young child is aged 4 or under and 18 kg or less; children aged 2 or under sit in a portable infant bed or rear-facing seat in the rear seat; children over 2 up to 4 and 18 kg or less sit in a young-child seat in the rear seat; for children over 4 up to 12, or over 18 kg up to 36 kg, the text we read says to sit in the rear seat and use a seat belt as required by the seat belt rules.
+- **What these rules do not say** — The regulations we read do not mention booster seats, do not say children aged 4 to 12 “must” use one, and we found no official recommendation or buying guide for boosters. The rule for a “child over 4 who weighs over 18 kg” is also unclear in the text. So we do not say a booster is legally required, and we do not judge whether your child needs one.
+- **If unsure, ask the authorities** — If your child's age or weight is near a boundary, the vehicle is unusual, or it is a taxi, the rules may differ. Ask the Ministry of Transportation and Communications (交通部), the police, or the vehicle supervision office; we do not give legal advice.
+- **We do not cover installation or use** — This page only sorts out buying directions; it is not safety or medical advice. For installation and use, see the product manual.
 
 ## Frequently Asked Questions
 
@@ -98,6 +75,10 @@ Shopee's product page shows a 15-day trial period, but the seller says not to us
 
 **How should it be installed and used safely?**
 We do not give installation or safety advice. Please see the product manual, or ask the seller, the Ministry of Transportation, or the police.
+
+## Notes and What We Checked
+
+On Shopee Taiwan, a search for “兒童安全座椅” returns everything from portable cushions at a few hundred NT dollars to growing-stage car seats at over ten thousand, and titles often list 汽座, 增高墊, and 安全座椅 all at once, so it is hard to tell them apart. We checked Taiwan's official sources: Article 31, paragraph 3 of the Road Traffic Management and Penalty Act (道路交通管理處罰條例) says a driver of a small vehicle who carries a young child without placing the child in a safety seat as required is fined NT$1,500 to NT$3,000. The Regulations on the Safe Riding of Young Children in Small Vehicles (小型車附載幼童安全乘坐實施及宣導辦法) define a “young child” as aged 4 or under and weighing 18 kg or less, require children aged 2 or under to use a rear-facing seat or portable infant bed, and have them all sit in the rear seat. For children over 4 up to 12, or over 18 kg up to 36 kg, the text we read only says to sit in the rear seat and wear a seat belt as required by the seat belt rules, and does not say whether a booster seat is required. The product on this page is listed only for 15 to 36 kg (about ages 4 to 12) and does not cover children under 4. We did not find an official buying guide for booster seats, and we have not checked the inspection number the seller lists against the Bureau of Standards system. This page sorts out what listings show and gives a checklist before ordering on Shopee. It does not cover installation or use, and it is not safety or medical advice.
 
 ---
 選品索引 ChoiceIndex — helping you compare before you buy, not paid endorsements.

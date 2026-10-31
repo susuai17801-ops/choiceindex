@@ -52,7 +52,7 @@ We write comparison guides for things people in Taiwan buy all the time. Before 
 - [Rice Cookers (電鍋 / 電子鍋) — servings and capacity, energy efficiency grade, the inspection mark, wattage, and a low, middle, and high price comparison](https://choiceindex.tw/en/rice-cooker/) — available
 - [Shower Chairs for Older Adults (洗澡椅) — backrest and armrests, seat height, size, weight rating, and subsidies that need assessment first](https://choiceindex.tw/en/shower-chair/) — available
 - [Commode Chairs for Older Adults (便盆椅) — seat height, armrests, size, weight rating, and subsidies that need assessment first](https://choiceindex.tw/en/commode-chair/) — available
-- [Child Booster Seats (兒童增高座墊) — ages 4 to 12, weight range, fixing method, inspection number, and what the rules say](https://choiceindex.tw/en/child-booster-seat/) — available
+- [Child Booster Seats (兒童增高座墊) — a guide for ages 4 to 12 and our pick](https://choiceindex.tw/en/child-booster-seat/) — available
 
 More guides will be added soon…
 
