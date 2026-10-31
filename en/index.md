@@ -53,6 +53,7 @@ We write comparison guides for things people in Taiwan buy all the time. Before 
 - [Shower Chairs for Older Adults (洗澡椅) — backrest and armrests, seat height, size, weight rating, and subsidies that need assessment first](https://choiceindex.tw/en/shower-chair/) — available
 - [Commode Chairs for Older Adults (便盆椅) — seat height, armrests, size, weight rating, and subsidies that need assessment first](https://choiceindex.tw/en/commode-chair/) — available
 - [Child Booster Seats (兒童增高座墊) — a guide for ages 4 to 12 and our pick](https://choiceindex.tw/en/child-booster-seat/) — available
+- [Portable Baby High Chairs (兒童餐椅) — 6 months and up, modes, harness, inspection number, and what the rules say](https://choiceindex.tw/en/baby-high-chair/) — available
 
 More guides will be added soon…
 
