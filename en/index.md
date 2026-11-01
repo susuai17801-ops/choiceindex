@@ -56,6 +56,7 @@ We write comparison guides for things people in Taiwan buy all the time. Before 
 - [Portable Baby High Chairs (兒童餐椅) — 6 months and up, modes, harness, inspection number, and what the rules say](https://choiceindex.tw/en/baby-high-chair/) — available
 - [Child Car Seats (兒童汽車安全座椅) — ages 0 to 12, Isofix, rotating seat, inspection number, and what the rules say](https://choiceindex.tw/en/child-car-seat/) — available
 - [Baby Strollers (嬰兒推車) — ages 0 to 3, sit and recline, folded size, inspection mark, and what the rules say](https://choiceindex.tw/en/baby-stroller/) — available
+- [Kids' Motorcycle Helmets (兒童機車安全帽) — inspection mark, head size, helmet type, and what the rules say](https://choiceindex.tw/en/kids-motorcycle-helmet/) — available
 
 More guides will be added soon…
 
