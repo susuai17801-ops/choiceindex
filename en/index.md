@@ -12,6 +12,7 @@ We write comparison guides for things people in Taiwan buy all the time. Before 
 
 - [Power Plug Adapters for Taiwan — round-pin to flat-pin, and why an adapter never changes the voltage](https://choiceindex.tw/en/plug-adapter-taiwan/) — available
 - [Motorcycle Phone Holders (機車手機架) — mounting spot, grip, vibration damping, and what the rules say](https://choiceindex.tw/en/motorcycle-phone-holder/) — available
+- [Motorcycle Rain Shoe Covers (機車雨鞋套) — fastening, height, size, and material and seams](https://choiceindex.tw/en/motorcycle-rain-shoe-covers/) — available
 - [Disposable Hand Warmers — stick-on, hand-held, foot warmers, and how to avoid low-temperature burns](https://choiceindex.tw/en/hand-warmer-pads/) — available
 - [Extension Cords for Taiwan — more sockets does not mean more power, and what the rating, overload protection and switches mean](https://choiceindex.tw/en/extension-cord/) — available
 - [Trash Bags — size, solid roll or pull-out, cost per bag, and the special bags some cities require](https://choiceindex.tw/en/garbage-bags/) — available
