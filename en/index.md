@@ -15,6 +15,7 @@ We write comparison guides for things people in Taiwan buy all the time. Before 
 - [Motorcycle Rain Shoe Covers (機車雨鞋套) — fastening, height, size, and material and seams](https://choiceindex.tw/en/motorcycle-rain-shoe-covers/) — available
 - [Winter Motorcycle Gloves (機車冬季手套) — warmth, wind and water resistance, dexterity, and touchscreen](https://choiceindex.tw/en/motorcycle-winter-gloves/) — available
 - [Emergency Lights for Power Outages (停電照明燈) — wall-mounted vs rechargeable, type approval numbers, run time, and the official rules](https://choiceindex.tw/en/emergency-light/) — available
+- [Luggage Scales for Flying Home from Taiwan (行李秤) — digital vs battery-free, capacity, strap or hook, and the airline baggage rules to check](https://choiceindex.tw/en/luggage-scale/) — available
 - [Disposable Hand Warmers — stick-on, hand-held, foot warmers, and how to avoid low-temperature burns](https://choiceindex.tw/en/hand-warmer-pads/) — available
 - [Extension Cords for Taiwan — more sockets does not mean more power, and what the rating, overload protection and switches mean](https://choiceindex.tw/en/extension-cord/) — available
 - [Trash Bags — size, solid roll or pull-out, cost per bag, and the special bags some cities require](https://choiceindex.tw/en/garbage-bags/) — available
