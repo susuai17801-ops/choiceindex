@@ -1,6 +1,6 @@
-# Bả Diệt Gián: Cách Chọn Hộp Bả, Gel Bả Và Thuốc Xịt, Cùng Chi Phí Mỗi Hộp
+# Thuốc diệt gián ở Đài Loan: cách chọn hộp bả, gel bả và thuốc xịt, cùng chi phí mỗi hộp (蟑螂藥)
 
-Cập nhật lần cuối: 1 tháng 10 năm 2026
+Cập nhật lần cuối: 15 tháng 11 năm 2026
 選品索引 ChoiceIndex — https://choiceindex.tw/vi/
 
 Ở phòng trọ, ký túc xá, nhà bếp hay nhà tắm, hễ thấy một con gián thì thường vẫn còn vài con khác mà bạn chưa thấy. Có ba cách phổ biến: hộp bả, gel bả và thuốc xịt. Cách hoạt động, vị trí đặt và mức độ rủi ro đối với trẻ nhỏ hoặc thú cưng của từng loại cũng khác nhau. Bài này tổng hợp so sánh 3 loại, 4 điểm cần xem khi chọn và cách tính chi phí mỗi hộp bả, trước khi bạn quyết định mua loại nào.
@@ -53,7 +53,7 @@ Thông tin trang sản phẩm Shopee Mall (hiển thị ngày 1 tháng 10 năm 2
 
 ## Câu hỏi thường gặp
 
-**Nên đặt hộp bả diệt gián ở đâu?**
+**Ở nhà hoặc ký túc xá tại Đài Loan, nên đặt hộp bả diệt gián ở đâu?**
 Đặt ở đường gián hay đi qua hoặc nơi chúng ẩn nấp: dưới bệ bếp, cạnh bếp ga, sau tủ lạnh, dưới bồn rửa, góc nhà tắm, cửa ban công và góc tường. Gián thích đi sát tường và khe hở, nên đặt giữa sàn trống thường kém hiệu quả; đồng thời tránh những chỗ trẻ nhỏ hoặc thú cưng với tới, và không đặt trên thực phẩm hoặc đồ ăn.
 
 **Sau khi đặt hộp bả mà lại thấy nhiều gián hơn, có bình thường không?**

@@ -1,6 +1,6 @@
-# Umpan Kecoa: Cara Memilih Kotak Umpan, Umpan Gel, dan Semprotan, plus Biaya per Kotak
+# Obat Kecoa di Taiwan: Cara Memilih Kotak Umpan, Umpan Gel, dan Semprotan, plus Biaya per Kotak (蟑螂藥)
 
-Terakhir diperbarui: 1 Oktober 2026
+Terakhir diperbarui: 15 November 2026
 選品索引 ChoiceIndex — https://choiceindex.tw/id/
 
 Di kamar sewa, asrama, dapur, atau kamar mandi, kalau kelihatan satu kecoa, biasanya masih ada beberapa lagi yang enggak kelihatan. Cara yang umum dipakai ada tiga: kotak umpan, umpan gel, dan semprotan. Cara kerjanya, tempat menaruhnya, dan risikonya untuk anak kecil atau hewan peliharaan beda-beda. Panduan ini merangkum perbandingan 3 jenis, 4 hal penting saat memilih, dan cara menghitung biaya per kotak umpan, sebelum kamu memutuskan mau beli yang mana.
@@ -53,7 +53,7 @@ Informasi halaman produk Shopee Mall (tampilan per 1 Oktober 2026, harga dan pro
 
 ## Pertanyaan yang Sering Ditanyakan
 
-**Kotak umpan kecoa sebaiknya ditaruh di mana?**
+**Di rumah atau asrama di Taiwan, kotak umpan kecoa sebaiknya ditaruh di mana?**
 Taruh di jalur yang sering dilewati atau tempat persembunyian kecoa: di bawah meja dapur, samping kompor, belakang kulkas, di bawah wastafel, sudut kamar mandi, pintu balkon, dan sudut dinding. Kecoa suka berjalan menempel dinding dan celah, jadi menaruhnya di tengah lantai yang terbuka biasanya kurang efektif; hindari juga tempat yang terjangkau anak kecil atau hewan peliharaan, dan jangan ditaruh di atas makanan atau alat makan.
 
 **Setelah menaruh kotak umpan, kecoa malah kelihatan lebih banyak, apakah itu normal?**
