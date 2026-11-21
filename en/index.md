@@ -19,6 +19,7 @@ We write comparison guides for things people in Taiwan buy all the time. Before 
 - [Bicycle Lights in Taiwan (自行車燈) — front and rear lights, brightness, charging, mounting, and the fine for riding at night without lights](https://choiceindex.tw/en/bicycle-light/) — available
 - [Pill Organizers in Taiwan (藥盒) — small pills and large supplements, compartments, moisture sealing, and official medicine storage reminders](https://choiceindex.tw/en/pill-organizer/) — available
 - [Taiwan Bed and Fitted Sheet Sizes (床包) — what 3.5 尺, 5 尺, and 6 尺 mean in cm, 188 cm mattresses vs 200 cm sheets, and sheet depth](https://choiceindex.tw/en/taiwan-bed-sheet-size/) — available
+- [Baby Diaper Sizes in Taiwan (紙尿褲) — how many kg NB, S, M, L, and XL cover, and what to do when your baby fits two sizes](https://choiceindex.tw/en/baby-diaper-size-taiwan/) — available
 - [Disposable Hand Warmers — stick-on, hand-held, foot warmers, and how to avoid low-temperature burns](https://choiceindex.tw/en/hand-warmer-pads/) — available
 - [Extension Cords for Taiwan — more sockets does not mean more power, and what the rating, overload protection and switches mean](https://choiceindex.tw/en/extension-cord/) — available
 - [Trash Bags — size, solid roll or pull-out, cost per bag, and the special bags some cities require](https://choiceindex.tw/en/garbage-bags/) — available
