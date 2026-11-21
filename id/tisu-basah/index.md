@@ -1,6 +1,6 @@
-# Tisu Basah: Cara Memilih Tisu Air Murni, Beralkohol, dan Antibakteri, plus Biaya per Lembar
+# Tisu Basah di Taiwan: Cara Memilih Tisu Air Murni, Beralkohol, dan Antibakteri, plus Biaya per Lembar (濕紙巾)
 
-Terakhir diperbarui: 3 Oktober 2026
+Terakhir diperbarui: 21 November 2026
 選品索引 ChoiceIndex — https://choiceindex.tw/id/
 
 Untuk mengelap tangan, mulut, meja, atau dibawa bepergian, tisu basah hampir selalu ada di setiap rumah. Tapi di toko ada banyak sebutan: air murni, beralkohol, antibakteri, tebal, untuk bayi, dan harganya bisa dari beberapa dolar sampai puluhan dolar per bungkus. Panduan ini merangkum perbandingan jenis yang umum, 4 hal penting saat memilih, dan cara menghitung biaya per lembar, sebelum kamu memutuskan mau beli yang mana.
@@ -53,7 +53,7 @@ Informasi halaman produk Shopee (tampilan per 3 Oktober 2026, harga dan promo bi
 
 ## Pertanyaan yang Sering Ditanyakan
 
-**Apakah tisu basah air murni benar-benar enggak mengandung bahan lain?**
+**Di Taiwan, apakah tisu basah air murni benar-benar enggak mengandung bahan lain?**
 Belum tentu. "99,9% air murni" adalah proporsi yang diklaim produsen; sisanya sering berupa bahan pengawet atau antibakteri untuk mencegah tisu berjamur dan jadi tempat bakteri. Untuk tahu isinya apa saja, lihat daftar komposisi lengkap di kemasan, jangan cuma percaya tulisan di bagian depan.
 
 **Apakah tisu basah boleh dibuang ke toilet?**
