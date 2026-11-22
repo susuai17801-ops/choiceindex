@@ -1,6 +1,6 @@
-# Pembersih Toilet: Beda Gel Bunga, Gel Pembersih, Tablet, dan Pembersih Kuat, plus Cara Memilihnya
+# Pembersih Toilet di Taiwan: Beda Gel Bunga, Gel Pembersih, Tablet, dan Pembersih Kuat, plus Cara Memilihnya (馬桶清潔劑)
 
-Terakhir diperbarui: 9 Oktober 2026
+Terakhir diperbarui: 22 November 2026
 選品索引 ChoiceIndex — https://choiceindex.tw/id/
 
 Toilet ada kerak, noda kuning, dan bau; baru beberapa hari setelah disikat, semuanya muncul lagi. Di toko online ada gel bunga, gel tempel, tablet, dan pembersih kuat, dan tulisan seperti "sekali tekan langsung wangi" atau "menempel kuat" ada di mana-mana. Padahal cara pakai, daya bersih, dan kondisi yang cocok untuk tiap jenis berbeda. Panduan ini merangkum perbedaan empat jenis, 4 hal penting saat memilih, serta aroma dan hal yang perlu diperhatikan saat memakainya, sebelum kamu memutuskan mau beli yang mana.
@@ -50,7 +50,7 @@ Informasi halaman produk Shopee (tampilan per 9 Oktober 2026, harga dan promo bi
 
 ## Pertanyaan yang Sering Muncul
 
-**Apakah gel bunga benar-benar bisa membersihkan toilet?**
+**Apakah gel bunga toilet yang dijual di Taiwan benar-benar bisa membersihkan toilet?**
 Gel bunga lebih cocok untuk menjaga toilet tetap segar dan wangi sehari-hari; setiap disiram, bahan pembersih dilepas pelan-pelan dan bisa mengurangi kotoran menempel. Tapi toilet yang sudah berkerak atau noda urinnya parah biasanya masih perlu sikat atau pembersih kuat. Hasil sebenarnya tergantung bahan toilet, kualitas air, dan seberapa sering dipakai; ikuti keterangan produk.
 
 **Apa bedanya paket botol dorong dan isi ulang? Pilih yang mana?**
