@@ -1,6 +1,6 @@
-# How to Choose Work Earplugs (工作耳塞) in Taiwan: NRR Noise Reduction, Foam vs Corded or Stemmed, and the Cost per Pair
+# How to Choose Work and Sleep Earplugs (耳塞) in Taiwan: NRR Noise Reduction, Foam vs Stemmed vs Silicone, and the Cost per Pair
 
-Last updated: October 24, 2026
+Last updated: November 22, 2026
 選品索引 ChoiceIndex — https://choiceindex.tw/en/
 
 If you spend every day around machinery, mowers, drilling, and grinding, or ride a motorcycle to work, your ears are under constant noise, and earplugs are almost the cheapest protection. But on the shop page "noise reduction", "super quiet", "NRR31", and "professional" are written all over, so which number should you look at, and which type is easier to wear? This guide explains the common types, 4 things to check, and how to work out the cost per pair, so you can decide which one to buy.
@@ -69,6 +69,21 @@ Shopee listing information (shown on October 7, 2026; prices and promotions may 
 
 [View product / buy on Shopee →](https://s.shopee.tw/3qNgnQ89Kg?share_channel_code=6)
 
+## For Sleeping: How Silicone Sleep Earplugs Differ from Work Earplugs
+
+The seller says the MOLDEX stemmed work earplugs we recommend above are not intended for use during sleep. If you need earplugs for sleeping, for example because a dorm roommate snores or you sleep during the day after a night shift, look for earplugs labeled for sleep. When you sleep, your ear is pressed against the pillow if you lie on your side, and you wear the earplugs all night, so what matters is a little different from work earplugs:
+
+- **Comfort when sleeping on your side** — The less an earplug sticks out of your ear, the less it gets pressed when you lie on your side. The seller lists our pick as measuring 14×16×22 mm and weighing 1.2 g per earplug.
+- **Reusable or not** — Foam earplugs usually need replacing after a few uses; silicone ones can be washed and reused as the seller describes, so what counts is how long they last, not the price per pair.
+- **Ear tip sizes** — Ear canals differ from person to person, so earplugs that come with several tip sizes are easier to fit. This one comes with S, M, and L tips.
+- **Noise reduction figures** — Sleep earplug listings often say “reduces XX dB”, but that figure is not necessarily an NRR and often does not state the test standard, so it cannot be compared directly with the NRR of work earplugs.
+
+### 【DTAudio 聆翔】Washable silicone sleep earplugs with S / M / L tips (Shopee Mall)
+
+Shopee store information (shown on November 22, 2026; prices and promotions may change): the store is “DTAudio 聆翔官方旗艦店”, Shopee Mall (蝦皮商城), store rating 4.9 (about 620,000 reviews), open for about 10 years; product rating 4.9, 4,258 reviews, 9,000+ sold (we only quote these and did not check each review); ships from Luzhu District, Taoyuan. Product information (per the seller, not verified by us): product name “睡眠耳塞（抗菌親膚）” (sleep earplugs), made of silicone + plastic, 14×16×22 mm, 1.2 g per earplug, with S, M, and L tips and a carrying case; can be rinsed with water, air-dried, and reused; made in China. The seller says it uses a “nano-pore sound-absorbing material” and that lab tests showed up to 45 dB of noise reduction, but does not state the test standard, and the figure is not an NRR; we did not verify it, and it cannot be compared directly with the NRR 31 of the work earplugs above. We also did not verify the seller's “antibacterial” claim. The color options are split into “深眠降噪款” and “柔眠舒適款”, but the product description does not explain the difference; ask the seller before ordering. We did not see a minimum order amount at this store. Warranty and returns always follow the store page. Earplugs are personal items that go into your ear canal; if your ear hurts, itches, or has discharge, stop using them, and see a doctor if the discomfort continues. We also do not recommend giving them to children or toddlers because of the risk of swallowing (our reminder, not the seller's).
+
+[View product / buy on Shopee →](https://s.shopee.tw/qlG4NPyUq)
+
 ## Quick Checklist Before You Buy
 
 - Where will you use them? → Constant high noise suits high-reduction foam, if you often put them in and take them out choose stemmed push-in, and look at silicone only if you want to reuse them
@@ -76,6 +91,7 @@ Shopee listing information (shown on October 7, 2026; prices and promotions may 
 - Can you insert them and seat them firmly? → Ear canals differ, so try a small amount first, because poorly seated earplugs lose a lot of the noise reduction
 - Will you miss sounds you need to hear? → For riding, roadside work, and places where you must hear alarms and calls, first judge whether the noise reduction is too much
 - Want to know if it is a good deal? → Work out "total price ÷ number of pairs", estimate how many wears before you replace them, and check for a minimum order amount and multi-buy offers
+- For sleeping? → choose earplugs labeled for sleep that do not press when you lie on your side; if work earplugs are labeled not for sleep, do not sleep in them
 
 ## Frequently Asked Questions
 
@@ -86,7 +102,7 @@ NRR (Noise Reduction Rating) is the level used in the United States for how much
 The usual advice is to wash your hands clean, roll the foam into a thin cylinder, use your other hand to pull the ear back and up, push the earplug into the ear canal, and hold it with a finger for a few seconds while it expands and fits. For stemmed push-in types, push straight in and turn slightly until it fits. If the sounds around you clearly become muffled after you put them in, they are usually seated firmly. The way to wear each product differs a little, so go by the seller and the pack instructions.
 
 **Can I use them for sleeping or give them to children?**
-We do not recommend it. For this earplug, the seller says "for use at work and study, not for use during sleep", and reminds you not to give it to children and young children, to prevent swallowing. Earplugs meant for sleeping usually differ in shape, material, and noise reduction design, so we suggest choosing a sleep style separately.
+Work earplugs are not recommended for sleeping. For the MOLDEX product above, the seller says it is “for use at work or study, not for use during sleep” and reminds buyers not to give it to children or toddlers because of the risk of swallowing. For sleeping, see the second product on this page, a silicone earplug labeled for sleep. Earplugs are still not recommended for children; ask a doctor first if needed.
 
 **Can earplugs be reused, and how often should I replace them?**
 There is no fixed answer. Foam earplugs absorb sweat and dirt easily, and the usual advice is to replace them according to how dirty or out of shape they are, and if the pack says single use, do not reuse them. Silicone types can be washed as the seller says and reused. If an earplug is out of shape, hardened, smells, or your ear feels uncomfortable, replace it, and if your ears keep feeling uncomfortable, ask a professional.

@@ -1,6 +1,6 @@
-# Nút Bịt Tai Chống Ồn Khi Làm Việc: Cách Chọn Theo Chỉ Số NRR, Loại Mút Thường Hay Có Cán, Cùng Chi Phí Mỗi Đôi
+# Nút Bịt Tai Chống Ồn Khi Làm Việc và Khi Ngủ ở Đài Loan: Cách Chọn Theo Chỉ Số NRR, Loại Mút, Có Cán Hay Silicone, Cùng Chi Phí Mỗi Đôi (耳塞)
 
-Cập nhật lần cuối: 7 tháng 10 năm 2026
+Cập nhật lần cuối: 22 tháng 11 năm 2026
 選品索引 ChoiceIndex — https://choiceindex.tw/vi/
 
 Ngày nào cũng ở gần máy móc, máy cắt cỏ, máy khoan, máy mài, hoặc ngày nào cũng chạy xe máy đi làm, tai liên tục phải chịu tiếng ồn, và nút bịt tai gần như là cách bảo vệ rẻ nhất. Nhưng trên sàn thương mại điện tử, các cụm "giảm ồn", "siêu yên tĩnh", "NRR31" và "chuyên nghiệp" được ghi đầy rẫy. Rốt cuộc nên xem con số nào, loại nào dễ đeo hơn? Bài này tổng hợp và so sánh các loại phổ biến, 4 điểm cần xem khi chọn và cách tính chi phí mỗi đôi, trước khi bạn quyết định mua loại nào.
@@ -43,6 +43,21 @@ Thông tin trang sản phẩm trên Shopee (hiển thị ngày 7 tháng 10 năm 
 
 [Xem sản phẩm / liên kết mua trên Shopee →](https://s.shopee.tw/3qNgnQ89Kg?share_channel_code=6)
 
+## Nếu dùng khi ngủ: nút bịt tai silicone để ngủ khác nút bịt tai làm việc ở đâu
+
+Theo người bán, nút bịt tai làm việc có cán MOLDEX mà chúng tôi giới thiệu ở trên không dùng để ngủ. Nếu bạn cần dùng khi ngủ, ví dụ bạn cùng phòng ký túc xá ngáy hoặc phải ngủ bù ban ngày sau ca đêm, hãy xem loại nút bịt tai ghi là dùng để ngủ. Khi ngủ, tai bị đè lúc nằm nghiêng và phải đeo cả đêm, nên những điểm cần xem hơi khác so với nút bịt tai làm việc:
+
+- **Nằm nghiêng có bị cấn không** — Phần nhô ra ngoài tai càng nhỏ thì càng ít bị đè khi nằm nghiêng. Người bán ghi sản phẩm được giới thiệu có kích thước 14×16×22 mm và nặng 1,2 g mỗi nút.
+- **Có dùng lại được không** — Nút bịt tai bằng mút thường dùng vài lần là phải thay; loại silicone có thể rửa và dùng lại theo hướng dẫn của người bán, nên cần tính dùng được bao lâu, chứ không phải giá mỗi đôi.
+- **Cỡ đầu nút (ear tip)** — Ống tai của mỗi người có kích thước khác nhau, nên loại nút bịt tai đi kèm nhiều cỡ đầu nút sẽ dễ điều chỉnh hơn. Sản phẩm này kèm đầu nút cỡ S, M, L.
+- **Con số giảm ồn** — Cửa hàng bán nút bịt tai để ngủ thường ghi “giảm ồn XX dB”, nhưng con số đó chưa chắc là NRR và thường không ghi tiêu chuẩn thử nghiệm, nên không so sánh trực tiếp được với chỉ số NRR của nút bịt tai làm việc.
+
+### 【DTAudio 聆翔】Nút bịt tai silicone để ngủ, giặt được, kèm đầu nút S / M / L (Shopee Mall)
+
+Thông tin trang Shopee (hiển thị ngày 22 tháng 11 năm 2026; giá và khuyến mãi có thể thay đổi): cửa hàng “DTAudio 聆翔官方旗艦店”, Shopee Mall (蝦皮商城), đánh giá cửa hàng 4,9 (khoảng 620 nghìn lượt), mở khoảng 10 năm; điểm sản phẩm 4,9, 4.258 đánh giá, đã bán 9.000+ (chúng tôi chỉ trích dẫn, chưa kiểm tra từng đánh giá); gửi từ Lô Trúc, Đào Viên. Thông tin sản phẩm (theo người bán, chúng tôi chưa kiểm chứng): tên sản phẩm “睡眠耳塞（抗菌親膚）” (nút bịt tai để ngủ), chất liệu silicone + nhựa, kích thước 14×16×22 mm, nặng 1,2 g mỗi bên, kèm đầu nút cỡ S, M, L và hộp đựng; có thể rửa bằng nước rồi để khô tự nhiên và dùng lại; sản xuất tại Trung Quốc. Người bán ghi dùng “vật liệu hút âm có lỗ nano” và thử nghiệm trong phòng thí nghiệm giảm ồn tối đa 45 dB, nhưng không nói rõ tiêu chuẩn thử nghiệm và con số này không phải NRR; chúng tôi chưa kiểm chứng, và không thể so sánh trực tiếp với NRR 31 của nút bịt tai làm việc ở trên. Chữ “kháng khuẩn” người bán ghi chúng tôi cũng chưa kiểm chứng. Lựa chọn màu chia thành “深眠降噪款” và “柔眠舒適款”, nhưng phần mô tả không nói hai loại khác nhau thế nào; hãy hỏi người bán trước khi đặt. Chúng tôi không thấy mức đơn tối thiểu ở cửa hàng này. Bảo hành và đổi trả luôn theo trang của cửa hàng. Nút bịt tai là đồ dùng cá nhân đặt vào ống tai; nếu tai đau, ngứa hoặc chảy dịch thì ngừng dùng, khó chịu kéo dài thì đi khám. Chúng tôi cũng không khuyến khích cho trẻ em và trẻ nhỏ dùng vì nguy cơ nuốt nhầm (lời nhắc của chúng tôi, không phải của người bán).
+
+[Xem sản phẩm / liên kết mua trên Shopee →](https://s.shopee.tw/qlG4NPyUq)
+
 ## Danh Sách Kiểm Tra Trước Khi Mua
 
 - Dùng ở đâu? → Ồn liên tục thì chọn mút có chỉ số giảm ồn cao; hay đeo vào tháo ra thì chọn loại có cán chỉ cần đẩy vào; muốn dùng lại thì mới xem loại silicone
@@ -50,6 +65,7 @@ Thông tin trang sản phẩm trên Shopee (hiển thị ngày 7 tháng 10 năm 
 - Có vừa và đeo kín không? → Ống tai mỗi người một cỡ, hãy mua ít để đeo thử trước, vì không kín thì mức giảm ồn bị giảm
 - Có bị không nghe được những thứ cần nghe không? → Khi chạy xe máy, làm việc bên lề đường hoặc ở nơi cần nghe còi báo động và tiếng gọi, hãy đánh giá trước xem mức giảm ồn có quá nhiều không
 - Muốn biết có tiết kiệm không? → Tính "tổng giá ÷ số đôi", rồi ước lượng đeo mấy lần thì thay, và xem có mức đặt hàng tối thiểu và ưu đãi mua nhiều đôi không
+- Dùng khi ngủ? → chọn loại ghi dùng để ngủ, nằm nghiêng không bị cấn; nút bịt tai làm việc ghi không dùng khi ngủ thì đừng dùng để ngủ
 
 ## Câu Hỏi Thường Gặp
 
@@ -60,7 +76,7 @@ NRR (Noise Reduction Rating) là mức khả năng giảm ồn của nút bịt 
 Thường khuyên rửa tay sạch, vê mút thành sợi dài nhỏ, dùng tay kia kéo tai ra phía sau và lên trên, rồi đưa nút vào ống tai và giữ vài giây để nút nở ra và ôm khít; với loại có cán chỉ cần đẩy vào thì đẩy thẳng vào và xoay nhẹ đến khi vừa vị trí. Đeo xong nếu thấy âm thanh xung quanh bị nghẹt rõ rệt thì thường là đã đeo khá kín. Cách đeo của mỗi sản phẩm hơi khác nhau, hãy làm theo hướng dẫn của người bán và trên bao bì.
 
 **Có dùng để ngủ hoặc cho trẻ nhỏ dùng được không?**
-Không khuyến khích. Người bán ghi cho nút bịt tai này là "dùng khi làm việc hoặc học tập, không dùng khi ngủ", và nhắc không đưa cho trẻ em và trẻ nhỏ dùng vì nguy cơ nuốt nhầm. Nút bịt tai dành cho giấc ngủ thường có hình dạng, chất liệu và thiết kế giảm ồn khác, nên nên chọn mẫu dành riêng cho việc ngủ.
+Không khuyến khích dùng nút bịt tai làm việc khi ngủ. Với sản phẩm MOLDEX ở trên, người bán ghi “dùng khi làm việc hoặc học tập, không dùng khi ngủ”, và nhắc không đưa cho trẻ em và trẻ nhỏ dùng vì nguy cơ nuốt nhầm. Nếu dùng khi ngủ, bạn có thể xem sản phẩm thứ hai trên trang này, là nút bịt tai silicone ghi dùng để ngủ. Với trẻ em, vẫn không khuyến khích dùng nút bịt tai; nếu cần, hãy hỏi bác sĩ trước.
 
 **Nút bịt tai có dùng lại được không? Bao lâu thì thay?**
 Không có đáp án cố định. Nút bịt tai bằng mút dễ thấm mồ hôi và bụi bẩn, nên thường khuyên thay tùy mức độ bẩn và biến dạng, và nếu trên bao bì ghi là dùng một lần thì đừng dùng lại; loại bằng silicone có thể giặt theo hướng dẫn của người bán rồi dùng lại. Nếu nút bịt tai đã biến dạng, cứng lại, có mùi hoặc tai thấy khó chịu thì nên thay, và nếu tai cứ khó chịu thì hãy hỏi người có chuyên môn.

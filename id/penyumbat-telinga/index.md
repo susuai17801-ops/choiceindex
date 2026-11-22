@@ -1,6 +1,6 @@
-# Penyumbat Telinga untuk Kerja: Cara Memilih Berdasarkan Nilai NRR, Busa Biasa atau Bertangkai, plus Biaya per Pasang
+# Penyumbat Telinga untuk Kerja dan Tidur di Taiwan: Cara Memilih Berdasarkan Nilai NRR, Busa, Bertangkai, atau Silikon, plus Biaya per Pasang (耳塞)
 
-Terakhir diperbarui: 7 Oktober 2026
+Terakhir diperbarui: 22 November 2026
 選品索引 ChoiceIndex — https://choiceindex.tw/id/
 
 Tiap hari berada di dekat mesin, mesin potong rumput, bor, atau gerinda, atau tiap hari naik motor ke tempat kerja, telinga terus-menerus kena bising, dan penyumbat telinga hampir jadi pelindung termurah. Tapi di toko online tulisan "peredam suara", "super senyap", "NRR31", dan "profesional" ada di mana-mana. Sebenarnya angka mana yang harus dilihat, dan jenis mana yang lebih nyaman dipakai? Panduan ini merangkum perbandingan jenis yang umum, 4 hal penting saat memilih, dan cara menghitung biaya per pasang, sebelum kamu memutuskan mau beli yang mana.
@@ -43,6 +43,21 @@ Informasi halaman produk Shopee (tampilan per 7 Oktober 2026, harga dan promo bi
 
 [Lihat produk / link pembelian di Shopee →](https://s.shopee.tw/3qNgnQ89Kg?share_channel_code=6)
 
+## Kalau untuk Tidur: Apa Bedanya Penyumbat Telinga Silikon untuk Tidur dan Penyumbat Telinga untuk Kerja
+
+Menurut penjual, penyumbat telinga kerja bertangkai MOLDEX yang kami rekomendasikan di atas tidak untuk dipakai saat tidur. Kalau Anda butuh untuk tidur, misalnya teman sekamar di asrama mendengkur atau harus tidur siang setelah kerja malam, lihat penyumbat telinga yang ditulis untuk tidur. Saat tidur, telinga tertekan ketika tidur miring dan penyumbat dipakai semalaman, jadi hal yang perlu dilihat agak berbeda dari penyumbat untuk kerja:
+
+- **Apakah terasa tertekan saat tidur miring** — Makin kecil bagian yang menonjol keluar dari telinga, makin kecil kemungkinan tertekan saat tidur miring. Penjual produk rekomendasi menulis ukurannya 14×16×22 mm dan beratnya 1,2 g per sisi.
+- **Bisa dipakai ulang atau tidak** — Penyumbat busa biasanya harus diganti setelah beberapa kali pakai; penyumbat silikon bisa dicuci dan dipakai ulang sesuai keterangan penjual, jadi yang dihitung adalah berapa lama bisa dipakai, bukan harga per pasang.
+- **Ukuran ujung (ear tip)** — Ukuran lubang telinga setiap orang berbeda, jadi penyumbat telinga yang dilengkapi beberapa ukuran ujung lebih mudah disesuaikan. Produk ini menyertakan ujung ukuran S, M, dan L.
+- **Angka peredam suara** — Toko penyumbat telinga untuk tidur sering menulis “meredam XX dB”, tetapi angka itu belum tentu NRR dan sering tidak menyebut standar pengujiannya, jadi tidak bisa langsung dibandingkan dengan NRR penyumbat telinga kerja.
+
+### 【DTAudio 聆翔】Penyumbat telinga silikon untuk tidur, bisa dicuci, dengan ujung S / M / L (Shopee Mall)
+
+Informasi halaman toko Shopee (tampil pada 22 November 2026; harga dan promosi bisa berubah): tokonya bernama “DTAudio 聆翔官方旗艦店”, Shopee Mall (蝦皮商城), penilaian toko 4,9 (sekitar 620 ribu ulasan), sudah buka sekitar 10 tahun; skor produk 4,9, 4.258 ulasan, terjual 9.000+ (kami hanya mengutip dan belum memeriksa tiap ulasan); dikirim dari Luzhu, Taoyuan. Informasi produk (keterangan penjual, belum kami periksa): nama produk “睡眠耳塞（抗菌親膚）” (penyumbat telinga untuk tidur), bahan silikon + plastik, ukuran 14×16×22 mm, berat 1,2 g per sisi, dengan ujung ukuran S, M, L dan kotak penyimpanan; bisa dibilas dengan air lalu dikeringkan dengan diangin-anginkan, dan dipakai ulang; buatan Tiongkok. Penjual menulis memakai “bahan peredam suara berpori nano” dan hasil uji laboratorium bisa meredam hingga 45 dB, tetapi tidak menyebut standar pengujiannya dan angka itu bukan NRR; kami tidak memeriksanya, dan angka ini tidak bisa langsung dibandingkan dengan NRR 31 pada penyumbat telinga kerja di atas. Klaim “antibakteri” dari penjual juga belum kami periksa. Pilihan warna dibagi menjadi “深眠降噪款” dan “柔眠舒適款”, tetapi deskripsi produk tidak menjelaskan bedanya; tanyakan dulu ke penjual sebelum memesan. Kami tidak menemukan ketentuan minimum pembelian di toko ini. Garansi dan retur selalu mengikuti halaman toko. Penyumbat telinga adalah barang pribadi yang dimasukkan ke lubang telinga; kalau telinga terasa sakit, gatal, atau keluar cairan, hentikan pemakaian, dan kalau tidak nyaman terus-menerus, periksakan ke dokter. Kami juga tidak menyarankan memberikannya kepada anak dan balita karena risiko tertelan (pengingat dari kami, bukan keterangan penjual).
+
+[Lihat produk / link pembelian di Shopee →](https://s.shopee.tw/qlG4NPyUq)
+
 ## Checklist Sebelum Beli
 
 - Dipakai di mana? → Bising terus-menerus pilih busa yang redamannya tinggi; sering pasang dan lepas pilih yang bertangkai dan tinggal didorong; kalau mau dipakai berulang baru lihat yang silikon
@@ -50,6 +65,7 @@ Informasi halaman produk Shopee (tampilan per 7 Oktober 2026, harga dan promo bi
 - Muat dan terpasang rapat? → Ukuran lubang telinga tiap orang beda, coba dulu dalam jumlah sedikit, karena kalau enggak rapat redamannya turun
 - Apakah jadi enggak bisa mendengar hal yang perlu didengar? → Saat naik motor, kerja di pinggir jalan, atau di tempat yang perlu mendengar alarm dan teriakan, pertimbangkan dulu apakah redamannya terlalu besar
 - Mau tahu hemat atau enggak? → Hitung "harga total ÷ jumlah pasang", lalu perkirakan berapa kali dipakai sebelum diganti, dan cek apakah ada batas minimal pemesanan dan potongan harga untuk pembelian beberapa pasang
+- Untuk tidur? → pilih yang ditulis untuk tidur dan tidak tertekan saat tidur miring; kalau penyumbat telinga kerja ditulis tidak untuk tidur, jangan dipakai tidur
 
 ## Pertanyaan yang Sering Ditanyakan
 
@@ -60,7 +76,7 @@ NRR (Noise Reduction Rating) adalah tingkat kemampuan penyumbat telinga meredam 
 Umumnya disarankan mencuci tangan sampai bersih, memilin busa jadi panjang dan kecil, menarik daun telinga ke belakang dan ke atas dengan tangan yang lain, lalu mendorong penyumbat ke lubang telinga dan menahannya beberapa detik sampai mengembang dan menempel; untuk yang bertangkai dan tinggal didorong, langsung dorong dan putar sedikit sampai posisinya pas. Kalau setelah dipasang suara di sekitar terasa jelas teredam, biasanya berarti terpasang cukup rapat. Cara pakai tiap produk sedikit berbeda, ikuti keterangan penjual dan kemasannya.
 
 **Boleh dipakai untuk tidur atau diberikan ke anak kecil?**
-Tidak disarankan. Penjual menulis untuk penyumbat telinga ini "dipakai saat kerja atau belajar, tidak untuk tidur", dan mengingatkan agar tidak diberikan kepada anak dan balita karena risiko tertelan. Penyumbat yang dibuat untuk tidur biasanya punya bentuk, bahan, dan desain redaman yang berbeda, jadi sebaiknya pilih model khusus tidur.
+Penyumbat telinga kerja tidak disarankan untuk digunakan saat tidur. Untuk produk MOLDEX di atas, penjual menulis “dipakai saat kerja atau belajar, tidak untuk tidur”, dan mengingatkan agar tidak diberikan kepada anak dan balita karena risiko tertelan. Untuk tidur, Anda bisa melihat produk kedua di halaman ini, yaitu penyumbat telinga silikon yang ditulis untuk tidur. Untuk anak-anak, penyumbat telinga tetap tidak disarankan; kalau perlu, tanyakan dulu ke dokter.
 
 **Apakah penyumbat telinga boleh dipakai ulang? Berapa lama harus diganti?**
 Enggak ada jawaban pasti. Penyumbat busa mudah menyerap keringat dan kotoran, jadi umumnya disarankan diganti sesuai tingkat kotor dan perubahan bentuknya, dan kalau di kemasan tertulis sekali pakai, jangan dipakai ulang; yang berbahan silikon bisa dicuci sesuai keterangan penjual lalu dipakai ulang. Kalau penyumbat sudah berubah bentuk, mengeras, berbau, atau telinga terasa tidak nyaman, saatnya diganti, dan kalau telinga terus terasa tidak enak, tanyakan ke tenaga profesional.
