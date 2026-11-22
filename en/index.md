@@ -21,6 +21,7 @@ We write comparison guides for things people in Taiwan buy all the time. Before 
 - [Taiwan Bed and Fitted Sheet Sizes (床包) — what 3.5 尺, 5 尺, and 6 尺 mean in cm, 188 cm mattresses vs 200 cm sheets, and sheet depth](https://choiceindex.tw/en/taiwan-bed-sheet-size/) — available
 - [Baby Diaper Sizes in Taiwan (紙尿褲) — how many kg NB, S, M, L, and XL cover, and what to do when your baby fits two sizes](https://choiceindex.tw/en/baby-diaper-size-taiwan/) — available
 - [Winter Quilts in Taiwan (棉被) — what 4.5×6.5 尺, 6×7 尺, and 7×8 尺 mean in cm, weight, filling, and washability](https://choiceindex.tw/en/taiwan-winter-quilt-size/) — available
+- [Hair Dryers in Taiwan (吹風機) — how to read 110V 60Hz voltage labels, and whether a 220V hair dryer from home can be used](https://choiceindex.tw/en/taiwan-hair-dryer-110v/) — available
 - [Disposable Hand Warmers — stick-on, hand-held, foot warmers, and how to avoid low-temperature burns](https://choiceindex.tw/en/hand-warmer-pads/) — available
 - [Extension Cords for Taiwan — more sockets does not mean more power, and what the rating, overload protection and switches mean](https://choiceindex.tw/en/extension-cord/) — available
 - [Trash Bags — size, solid roll or pull-out, cost per bag, and the special bags some cities require](https://choiceindex.tw/en/garbage-bags/) — available
