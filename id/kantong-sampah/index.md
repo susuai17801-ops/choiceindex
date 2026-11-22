@@ -1,9 +1,9 @@
-# Kantong Sampah: Cara Memilih Ukuran, Tipe Polos atau Tarik, dan Biaya per Lembar
+# Kantong Sampah di Taiwan: Cara Memilih Ukuran, Tipe Polos atau Tarik, dan Biaya per Lembar (垃圾袋)
 
-Terakhir diperbarui: 24 September 2026
+Terakhir diperbarui: 22 November 2026
 選品索引 ChoiceIndex — https://choiceindex.tw/id/
 
-Kantong sampah dipakai tiap rumah setiap minggu, kelihatannya mirip semua. Tapi kalau salah ukuran, kantongnya enggak menutup mulut tong atau robek di tengah, dan kalau terlalu besar jadi boros plastik. Panduan ini merangkum tabel ukuran dan kapasitas yang umum, perbedaan tipe polos dan tipe tarik, 4 hal penting saat memilih, serta cara menghitung biaya per lembar sebelum kamu memutuskan mau beli yang mana.
+Kantong sampah di Taiwan dipakai tiap rumah setiap minggu, kelihatannya mirip semua. Tapi kalau salah ukuran, kantongnya enggak menutup mulut tong atau robek di tengah, dan kalau terlalu besar jadi boros plastik. Panduan ini merangkum tabel ukuran dan kapasitas yang umum, perbedaan tipe polos dan tipe tarik, 4 hal penting saat memilih, serta cara menghitung biaya per lembar sebelum kamu memutuskan mau beli yang mana.
 
 ## Pertama, Pahami: Ukuran dan Kapasitas yang Umum
 
@@ -59,7 +59,7 @@ Informasi halaman produk Shopee (tampilan per 24 September 2026, harga, pilihan,
 
 ## Pertanyaan yang Sering Ditanyakan
 
-**Angka L dan angka cm pada kantong sampah, mana yang harus dilihat?**
+**Ukuran kantong sampah di Taiwan: angka L dan angka cm, mana yang harus dilihat?**
 Angka L adalah perkiraan kapasitas, tapi cocok atau enggaknya di tong ditentukan oleh panjang × lebar kantong (cm) dan ukuran mulut tongmu. Merek yang berbeda dengan tulisan 45L yang sama, ukurannya juga bisa sedikit beda. Sebaiknya ukur dulu tong sampahmu, lalu cocokkan dengan angka cm di halaman produk, ini lebih akurat daripada cuma lihat angka L.
 
 **Apa bedanya kantong sampah polos dan tipe tarik?**
