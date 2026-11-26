@@ -24,6 +24,7 @@ We write comparison guides for things people in Taiwan buy all the time. Before 
 - [Hair Dryers in Taiwan (吹風機) — how to read 110V 60Hz voltage labels, and whether a 220V hair dryer from home can be used](https://choiceindex.tw/en/taiwan-hair-dryer-110v/) — available
 - [Microwave-Safe Food Containers in Taiwan (保鮮盒) — how to read PP material and heat-resistance labels](https://choiceindex.tw/en/taiwan-microwave-food-container/) — available
 - [Thermal Underwear in Taiwan (發熱衣) — how to read labels and heat claims, and how to layer thin and thick pieces](https://choiceindex.tw/en/taiwan-thermal-underwear/) — available
+- [Electric Kettles in Taiwan (電熱水壺) — whether to boil tap water, and how to read the 110V label, inspection mark, and 304 stainless steel](https://choiceindex.tw/en/taiwan-electric-kettle/) — available
 - [Disposable Hand Warmers — stick-on, hand-held, foot warmers, and how to avoid low-temperature burns](https://choiceindex.tw/en/hand-warmer-pads/) — available
 - [Extension Cords for Taiwan — more sockets does not mean more power, and what the rating, overload protection and switches mean](https://choiceindex.tw/en/extension-cord/) — available
 - [Trash Bags — size, solid roll or pull-out, cost per bag, and the special bags some cities require](https://choiceindex.tw/en/garbage-bags/) — available
