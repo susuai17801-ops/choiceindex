@@ -26,6 +26,7 @@ We write comparison guides for things people in Taiwan buy all the time. Before 
 - [Thermal Underwear in Taiwan (發熱衣) — how to read labels and heat claims, and how to layer thin and thick pieces](https://choiceindex.tw/en/taiwan-thermal-underwear/) — available
 - [Electric Kettles in Taiwan (電熱水壺) — whether to boil tap water, and how to read the 110V label, inspection mark, and 304 stainless steel](https://choiceindex.tw/en/taiwan-electric-kettle/) — available
 - [Washing a Bedridden Elder's Hair in Bed (洗頭槽) — inflatable or rigid basin, and the steps from a hospital home-care guide](https://choiceindex.tw/en/taiwan-bed-hair-washing-basin/) — available
+- [Insulated Bottles in Taiwan (保溫瓶) — how to read heat retention, 304 stainless steel labels, and choose a size](https://choiceindex.tw/en/taiwan-insulated-bottle/) — available
 - [Disposable Hand Warmers — stick-on, hand-held, foot warmers, and how to avoid low-temperature burns](https://choiceindex.tw/en/hand-warmer-pads/) — available
 - [Extension Cords for Taiwan — more sockets does not mean more power, and what the rating, overload protection and switches mean](https://choiceindex.tw/en/extension-cord/) — available
 - [Trash Bags — size, solid roll or pull-out, cost per bag, and the special bags some cities require](https://choiceindex.tw/en/garbage-bags/) — available
