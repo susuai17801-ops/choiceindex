@@ -14,7 +14,7 @@ Brand-name insulated bottles often list “heat retention: ○○℃ or above af
 | Zojirushi SM-SR36E | 360 ml | 86℃ or above | 67℃ or above | 9℃ or below |
 | Zojirushi SU-DA80 | 800 ml | 90℃ or above | 79℃ or above | 7℃ or below |
 
-Within the same brand, the larger bottle stays hotter after 6 hours. To compare different brands, look at the same point in time (for example, both after 6 hours); a bottle with no heat retention figure is hard to compare. These figures come from the seller; we did not test them, and we did not find an official test method for heat retention in Taiwan.
+Within the same brand, the larger bottle stays hotter after 6 hours. To compare different brands, look at the same point in time (for example, both after 6 hours); a bottle with no heat retention figure is hard to compare.
 
 ## How to Read Stainless Steel Labels
 

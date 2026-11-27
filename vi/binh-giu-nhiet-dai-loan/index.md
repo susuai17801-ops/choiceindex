@@ -14,7 +14,7 @@ Bình giữ nhiệt có thương hiệu thường ghi “giữ nóng: sau 6 gi�
 | Zojirushi SM-SR36E | 360 ml | từ 86℃ trở lên | từ 67℃ trở lên | từ 9℃ trở xuống |
 | Zojirushi SU-DA80 | 800 ml | từ 90℃ trở lên | từ 79℃ trở lên | từ 7℃ trở xuống |
 
-Trong cùng một hãng, bình dung tích lớn hơn có nhiệt độ sau 6 giờ cao hơn. Muốn so sánh các hãng khác nhau, nên xem cùng một mốc thời gian (ví dụ đều là sau 6 giờ); bình không ghi hiệu quả giữ nhiệt thì khó so sánh. Các con số này do người bán ghi; chúng tôi chưa thử và cũng không tìm thấy phương pháp thử chính thức ở Đài Loan.
+Trong cùng một hãng, bình dung tích lớn hơn có nhiệt độ sau 6 giờ cao hơn. Muốn so sánh các hãng khác nhau, nên xem cùng một mốc thời gian (ví dụ đều là sau 6 giờ); bình không ghi hiệu quả giữ nhiệt thì khó so sánh.
 
 ## Cách đọc nhãn thép không gỉ
 

@@ -14,7 +14,7 @@ Termos bermerek sering mencantumkan “tahan panas: setelah 6 jam ○○℃ ke a
 | Zojirushi SM-SR36E | 360 ml | 86℃ ke atas | 67℃ ke atas | 9℃ ke bawah |
 | Zojirushi SU-DA80 | 800 ml | 90℃ ke atas | 79℃ ke atas | 7℃ ke bawah |
 
-Dalam satu merek, termos berkapasitas lebih besar memiliki suhu yang lebih tinggi setelah 6 jam. Untuk membandingkan merek yang berbeda, sebaiknya lihat titik waktu yang sama (misalnya sama-sama setelah 6 jam); termos yang tidak mencantumkan daya tahan panas sulit dibandingkan. Angka ini adalah keterangan penjual; kami tidak mengujinya dan tidak menemukan metode uji resmi di Taiwan.
+Dalam satu merek, termos berkapasitas lebih besar memiliki suhu yang lebih tinggi setelah 6 jam. Untuk membandingkan merek yang berbeda, sebaiknya lihat titik waktu yang sama (misalnya sama-sama setelah 6 jam); termos yang tidak mencantumkan daya tahan panas sulit dibandingkan.
 
 ## Cara Membaca Label Baja Tahan Karat
 
