@@ -1,9 +1,9 @@
-# Nước Giặt / Viên Giặt: Cách Chọn Độ Cô Đặc, Thành Phần Và Chi Phí Mỗi Viên
+# Viên giặt (nước giặt viên) ở Đài Loan: cách chọn độ cô đặc, thành phần và chi phí mỗi viên (洗衣球)
 
-Cập nhật lần cuối: 23 tháng 9 năm 2026
+Cập nhật lần cuối: 27 tháng 11 năm 2026
 選品索引 ChoiceIndex — https://choiceindex.tw/vi/
 
-Viên giặt không cần đong đo, chỉ cần thả vào lồng giặt, cất giữ cũng gọn hơn chai nước giặt lớn, nhưng loại thường, loại cô đặc, loại có chức năng đặc biệt (kháng khuẩn, chống mạt, khử mùi, làm mềm vải) khác nhau khá nhiều, giá nhìn qua có vẻ giống nhau nhưng tính ra chi phí mỗi viên có thể chênh lệch vài lần. Bài này tổng hợp và so sánh 3 loại, 4 điểm quan trọng khi chọn, cùng cách tính để biết loại nào thật sự tiết kiệm, giúp bạn quyết định nên mua loại nào.
+Viên giặt (nước giặt viên) bán ở Đài Loan không cần đong đo, chỉ cần thả vào lồng giặt, cất giữ cũng gọn hơn chai nước giặt lớn, nhưng loại thường, loại cô đặc, loại có chức năng đặc biệt (kháng khuẩn, chống mạt, khử mùi, làm mềm vải) khác nhau khá nhiều, giá nhìn qua có vẻ giống nhau nhưng tính ra chi phí mỗi viên có thể chênh lệch vài lần. Bài này tổng hợp và so sánh 3 loại, 4 điểm quan trọng khi chọn, cùng cách tính để biết loại nào thật sự tiết kiệm, giúp bạn quyết định nên mua loại nào.
 
 ## Trước hết, hãy hiểu: 3 loại viên giặt
 
@@ -53,7 +53,7 @@ Thông tin trang sản phẩm Shopee Mall chính hãng (hiển thị ngày 23 th
 
 ## Câu Hỏi Thường Gặp
 
-**Viên giặt khác gì so với nước giặt hay bột giặt truyền thống?**
+**Ở Đài Loan, viên giặt khác gì so với nước giặt hay bột giặt truyền thống?**
 Viên giặt (dạng nang) đóng gói chất tẩy rửa cô đặc trong một lớp màng tan trong nước, không cần đong đo, chỉ cần thả thẳng vào lồng giặt, lớp màng ngoài gặp nước sẽ tan và giải phóng chất tẩy rửa; nước giặt hay bột giặt truyền thống thì phải tự đong, khó nắm được liều lượng chuẩn hơn, nhưng giá mỗi lần dùng thường rẻ hơn. Nguyên lý làm sạch của hai loại tương tự nhau, khác biệt chính nằm ở sự tiện lợi khi sử dụng và chi phí mỗi lần dùng, tùy thói quen và ngân sách mà chọn.
 
 **Các con số như "6X", "cô đặc gấp 3,9 lần" có nghĩa là gì?**
