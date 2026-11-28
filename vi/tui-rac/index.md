@@ -1,9 +1,9 @@
-# Túi đựng rác: cách chọn kích thước, loại cuộn thường hay loại rút, và chi phí mỗi chiếc
+# Túi đựng rác (túi rác) ở Đài Loan: cách chọn kích thước, loại cuộn thường hay loại rút, và chi phí mỗi chiếc (垃圾袋)
 
-Cập nhật lần cuối: 24 tháng 9 năm 2026
+Cập nhật lần cuối: 28 tháng 11 năm 2026
 選品索引 ChoiceIndex — https://choiceindex.tw/vi/
 
-Túi đựng rác là đồ dùng mà nhà nào cũng dùng hằng tuần, nhìn qua thì gần như giống nhau. Nhưng mua sai kích thước thì túi không trùm được miệng thùng hoặc bị rách giữa chừng, còn mua quá lớn thì lãng phí nhựa. Bài này tổng hợp bảng kích thước và dung tích thường gặp, sự khác nhau giữa loại cuộn thường và loại rút, 4 điểm quan trọng khi chọn, và cách tính chi phí mỗi chiếc trước khi bạn quyết định mua loại nào.
+Túi đựng rác (túi rác, bịch đựng rác) là đồ dùng mà nhà nào ở Đài Loan cũng dùng hằng tuần, nhìn qua thì gần như giống nhau. Nhưng mua sai kích thước thì túi không trùm được miệng thùng hoặc bị rách giữa chừng, còn mua quá lớn thì lãng phí nhựa. Bài này tổng hợp bảng kích thước và dung tích thường gặp, sự khác nhau giữa loại cuộn thường và loại rút, 4 điểm quan trọng khi chọn, và cách tính chi phí mỗi chiếc trước khi bạn quyết định mua loại nào.
 
 ## Trước hết cần hiểu: kích thước và dung tích thường gặp
 
@@ -59,7 +59,7 @@ Thông tin trang sản phẩm Shopee (hiển thị ngày 24 tháng 9 năm 2026, 
 
 ## Câu hỏi thường gặp
 
-**Trên túi rác có số L và số cm, nên xem số nào?**
+**Ở Đài Loan, trên túi rác có số L và số cm, nên xem số nào?**
 Số L là dung tích tham khảo, nhưng túi có vừa thùng hay không còn tùy chiều dài × rộng của túi (cm) và kích thước miệng thùng nhà bạn. Các hãng khác nhau cùng ghi 45L thì kích thước cũng có thể lệch chút ít. Nên đo thùng rác trước, rồi đối chiếu với số cm ở trang sản phẩm, chính xác hơn là chỉ nhìn số L.
 
 **Túi rác cuộn thường và loại rút khác nhau thế nào?**
